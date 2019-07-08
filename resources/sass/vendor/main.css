@@ -37,6 +37,8 @@
 @import url('/resources/sass/vendor/Linearicons-Free.css'); /* Full icons list: https://linearicons.com/free */
 
 /* 7 stroke icons font by Pixeden */
+@import url('/resources/sass/vendor/pe-icon-7-stroke.css'); /* Full icons list: http://themes-pixeden.com/font-demos/7-stroke/index.html */
+
 
 /* Google fonts */
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i');
