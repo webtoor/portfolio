@@ -1,4 +1,5 @@
 @extends('menu.default')
 @section('content')
-<button type="button" class="btn btn-primary">Primary</button>
+@include('menu.about-me')
+@include('menu.resume')
 @endsection

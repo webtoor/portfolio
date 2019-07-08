@@ -17,5 +17,6 @@
     @yield('content')
 
   <script type="text/javascript" scr="{{ asset('/js/app.js') }}"></script>
+  
 </body>
 </html>

@@ -14,9 +14,20 @@
 	<link href="{{ mix('/css/app.css') }}" rel="stylesheet">
 
 	@yield('css')
+    <script src="js/modernizr.custom.js"></script>
 
 </head>
 <body class="app">
+
+     <!-- Loading animation -->
+     <div class="preloader">
+            <div class="preloader-animation">
+              <div class="preloader-spinner">
+              </div>
+            </div>
+          </div>
+          <!-- /Loading animation -->
+      
   <!-- Arrows Nav -->
   <div class="lmpixels-arrows-nav">
     <div class="lmpixels-arrow-left"><i class="lnr lnr-chevron-left"></i></div>
@@ -41,10 +52,8 @@
     </a>
   </div>
   <!-- /Mobile Header -->
-    ````<div>
         <!-- #Left Sidebar ==================== -->
         @include('menu.partials.sidebar')
-        </div>
 
           <!-- Main Content -->
       <div id="main" class="site-main">
@@ -53,8 +62,7 @@
           <!-- Subpages -->
           <div class="subpages">
 
-           @include('menu.about-me')
-
+            @yield('content')
 
            
 
@@ -64,6 +72,21 @@
       </div>
       <!-- /Main Content -->
     </div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery-2.1.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/pages-switcher.js"></script>
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    <script src="js/validator.js"></script>
+    <script src="js/jquery.shuffle.min.js"></script>
+    <script src="js/masonry.pkgd.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+ <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkf6QLWDuZKt6OSsN-SofihM4KsMocFZs"></script>
+    <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>-->
+    <script src="js/jquery.googlemap.js"></script>
+    <script src="js/main.js"></script>
+    <script src="preview/lmpixels-demo-panel.js"></script>
   <script src="{{ mix('/js/app.js') }}"></script>
     @yield('js')
 
