@@ -11207,7 +11207,8 @@ body::-webkit-scrollbar-thumb {
 }
 
 a {
-  color: #ff714a;
+  /* color: #3f51b5; */
+  color: #3f51b5;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -11349,7 +11350,7 @@ textarea.form-control:focus {
   left: 50%;
   right: 50%;
   bottom: 0;
-  background: #ff714a;
+  background: #3f51b5;
   height: 2px;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -11416,7 +11417,7 @@ textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #ff714a;
+  color: #3f51b5;
 }
 
 .form-group.form-group-w-checkbox {
@@ -11494,7 +11495,7 @@ input[type=submit] {
   line-height: 1.2;
   border: 0;
   outline: 0;
-  border: 2px solid #ff714a;
+  border: 2px solid #3f51b5;
   color: #222;
   text-shadow: none;
   background-color: #fff;
@@ -11512,8 +11513,8 @@ input[type=button]:hover,
 input[type=button]:focus,
 input[type=submit]:hover,
 input[type=submit]:focus {
-  background-color: #ff714a;
-  border-color: #ff714a;
+  background-color: #3f51b5;
+  border-color: #3f51b5;
   color: #fff;
 }
 
@@ -11532,11 +11533,11 @@ input[type=submit]:focus {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #ff714a;
+  border-top: 2px solid #3f51b5;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #ff714a;
+  border-bottom: 2px solid #3f51b5;
 }
 
 /* Footer */
@@ -11689,7 +11690,7 @@ blockquote {
   width: 52px;
   height: 52px;
   margin: 100px auto;
-  background-color: #ff714a;
+  background-color: #3f51b5;
   border-radius: 100%;
   -webkit-animation: sk-scaleout 1s infinite ease-in-out;
   animation: sk-scaleout 1s infinite ease-in-out;
@@ -11972,7 +11973,7 @@ blockquote {
 }
 
 .site-title span {
-  color: #ff714a;
+  color: #3f51b5;
 }
 
 .header.sticked .site-title {
@@ -12048,7 +12049,7 @@ blockquote {
 }
 
 .site-main-menu li.active a:after {
-  background-color: #ff714a;
+  background-color: #3f51b5;
 }
 
 /* /Main menu */
@@ -12076,7 +12077,7 @@ blockquote {
 }
 
 .header .social-links a:hover {
-  background-color: #ff714a;
+  background-color: #3f51b5;
 }
 
 .header .social-links a i {
@@ -12184,7 +12185,7 @@ h3.comment-reply-title:after {
   width: 100%;
   height: 2px;
   margin-top: -1px;
-  background-color: #ff714a;
+  background-color: #3f51b5;
 }
 
 /* ============================================================================= 
@@ -12374,8 +12375,8 @@ h3.comment-reply-title:after {
 .clients.owl-carousel .owl-nav .owl-prev:hover,
 .clients.owl-carousel .owl-nav .owl-next:hover {
   color: #fff;
-  background-color: #ff714a;
-  border-color: #ff714a;
+  background-color: #3f51b5;
+  border-color: #3f51b5;
 }
 
 /* =======================================
@@ -12430,7 +12431,7 @@ h3.comment-reply-title:after {
   height: 11px;
   margin-left: -5px;
   border-radius: 5px;
-  border: 2px solid #ff714a;
+  border: 2px solid #3f51b5;
   background-color: #fff;
 }
 
@@ -12489,7 +12490,7 @@ h3.comment-reply-title:after {
 .skills-second-style .skill-container {
   position: relative;
   background-color: transparent;
-  border: 1px solid #ff714a;
+  border: 1px solid #3f51b5;
   border-radius: 8px;
   box-sizing: border-box;
   height: 10px;
@@ -12498,7 +12499,7 @@ h3.comment-reply-title:after {
 }
 
 .skills-second-style .skill-percentage {
-  background-color: #ff714a;
+  background-color: #3f51b5;
   border: 2px solid #fff;
   border-radius: 9px;
   height: 8px;
@@ -12601,7 +12602,7 @@ h3.comment-reply-title:after {
 .portfolio-filters li.active a,
 .portfolio-filters li.active a:hover {
   background-color: #fff;
-  border: 2px solid #ff714a;
+  border: 2px solid #3f51b5;
   color: #222;
 }
 
@@ -12717,7 +12718,7 @@ h3.comment-reply-title:after {
   width: 30px;
   height: 30px;
   background-color: #fff;
-  color: #ff714a;
+  color: #3f51b5;
   text-align: center;
   line-height: 30px;
   -webkit-transition: all 0.3s ease-in-out;
@@ -13053,8 +13054,8 @@ h3.comment-reply-title:after {
 .testimonials.owl-carousel .owl-nav .owl-next:hover,
 .clients.owl-carousel .owl-nav .owl-prev:hover,
 .clients.owl-carousel .owl-nav .owl-next:hover {
-  background-color: #ff714a;
-  border-color: #ff714a;
+  background-color: #3f51b5;
+  border-color: #3f51b5;
   color: #fff;
 }
 
@@ -13240,7 +13241,7 @@ h3.comment-reply-title:after {
 }
 
 .ajax-page-nav > div.nav-item a:hover {
-  background-color: #ff714a;
+  background-color: #3f51b5;
   color: #fff;
 }
 
@@ -13299,7 +13300,7 @@ h3.comment-reply-title:after {
 }
 
 .project-general-info .fa {
-  color: #ff714a;
+  color: #3f51b5;
   margin-right: 5px;
 }
 
@@ -13331,8 +13332,8 @@ h3.comment-reply-title:after {
 
 .share-buttons a:hover {
   color: #fff;
-  background-color: #ff714a;
-  border-color: #ff714a;
+  background-color: #3f51b5;
+  border-color: #3f51b5;
 }
 
 .share-buttons a:last-child {
@@ -13568,7 +13569,7 @@ h3.comment-reply-title:after {
 }
 
 .post-comments .media-footer a:hover {
-  color: #ff714a;
+  color: #3f51b5;
 }
 
 .blog-post-content .divider {
@@ -13643,7 +13644,7 @@ blockquote p {
 }
 
 .entry-meta a:hover {
-  color: #ff714a;
+  color: #3f51b5;
 }
 
 .entry-meta.entry-meta-top > span:after {
@@ -13684,7 +13685,7 @@ blockquote p {
   font-size: 14px;
   margin: 0 6px 6px 0;
   color: #fff;
-  background-color: #ff714a;
+  background-color: #3f51b5;
   padding: 2px 5px;
 }
 
@@ -13694,7 +13695,7 @@ blockquote p {
 
 .cat-links li a:hover {
   color: #fff;
-  background-color: #ff714a;
+  background-color: #3f51b5;
 }
 
 .byline {
@@ -13789,7 +13790,7 @@ blockquote p {
 
 .post-navigation a:hover,
 .image-navigation a:hover {
-  color: #ff714a;
+  color: #3f51b5;
 }
 
 /* Posts Navigation & Comments */
@@ -14491,7 +14492,7 @@ blockquote p {
   font-weight: 400;
   display: block;
   margin: 10px 0;
-  color: #ff714a;
+  color: #3f51b5;
 }
 
 .lmpixels-arrows-nav {
@@ -14519,7 +14520,7 @@ blockquote p {
 }
 
 .lmpixels-arrows-nav > div:hover {
-  color: #ff714a;
+  color: #3f51b5;
 }
 
 .info-list {
@@ -14545,7 +14546,7 @@ blockquote p {
   display: block;
   width: 100%;
   height: 2px;
-  background-color: #ff714a;
+  background-color: #3f51b5;
 }
 
 @media only screen and (max-width: 991px) {
