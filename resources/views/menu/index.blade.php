@@ -3,5 +3,6 @@
         @include('menu.about-me')
         @include('menu.resume')
         @include('menu.portofolio')
+        @include('menu.blog')
         @include('menu.contact')
     @endsection

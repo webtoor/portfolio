@@ -152,10 +152,6 @@
             a(this).parent('.form-group').addClass('form-group-focus')
         }).on('focusout', function () {
             0 === a(this).val().length && a(this).parent('.form-group').removeClass('form-group-focus')
-        }), a('#map').googleMap({
-            zoom: 16
-        }), a('#map').addMarker({
-            address: ''
         })
     })
 })(jQuery);

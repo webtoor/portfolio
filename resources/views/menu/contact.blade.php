@@ -9,7 +9,9 @@
           <div class="section-content">
             <div class="row">
               <div class="col-xs-12 col-sm-12">
-                <div id="map" class="map"></div>
+                {{--   <div id="map" class="map" >
+                     
+                    </div> --}}
               </div>
             </div>
 
@@ -112,3 +114,5 @@
         </div>
       </section>
       <!-- End Contact Subpage -->
+      
+    

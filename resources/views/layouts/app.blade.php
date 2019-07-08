@@ -13,7 +13,7 @@
   <!-- Styles -->
   <link href="{{ asset('/css/app.css') }}" rel="stylesheet">
 </head>
-<body class="app">
+<body>
     @yield('content')
 
   <script type="text/javascript" scr="{{ asset('/js/app.js') }}"></script>

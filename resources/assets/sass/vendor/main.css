@@ -34,10 +34,12 @@
 @import url('../static/fonts/fontawesome-free/css/all.min.css'); /* Full icons list: https://fontawesome.com/icons?d=gallery&m=free */
 
 /* Linearicons Font */
-@import url('/public/css/Linearicons-Free.css'); /* Full icons list: https://linearicons.com/free */
+/* @import url('/resources/sass/vendor/Linearicons-Free.css'); */ 
+/* Full icons list: https://linearicons.com/free */
 
 /* 7 stroke icons font by Pixeden */
-@import url('/public/css/pe-icon-7-stroke.css'); /* Full icons list: http://themes-pixeden.com/font-demos/7-stroke/index.html */
+/* @import url('/resources/sass/vendor/pe-icon-7-stroke.css');  */
+/* Full icons list: http://themes-pixeden.com/font-demos/7-stroke/index.html */
 
 
 /* Google fonts */
