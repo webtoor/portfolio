@@ -12,3 +12,6 @@
 */
 
 Route::get('/', 'HomeController@index');
+Route::get('/pis', function () {
+    return view('menu.pis');
+});
