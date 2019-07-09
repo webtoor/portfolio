@@ -18,3 +18,6 @@ Route::get('/pis', function () {
 Route::get('/hiber-mobile', function () {
     return view('menu.portfolio-hiber-mobile');
 });
+Route::get('/hiber-droner', function () {
+    return view('menu.portfolio-hiber-droner');
+});
