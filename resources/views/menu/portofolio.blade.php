@@ -41,7 +41,7 @@
       
                                 <figure class="item standard" data-groups='["category_all", "category_media"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/2.jpg" alt="Pilates Information System" title="" />
+                                    <img src="images/portfolio/pis/6.png" alt="Pilates Information System" title="" />
                                     <a href="/pis" class="ajax-page-load"></a>
                                   </div>
       
