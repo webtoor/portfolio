@@ -41,7 +41,7 @@
     <div class="mobile-logo-container">
       <div class="mobile-header-image">
         <a href="#">
-            <img src="images/photo.jpg" alt="image">
+            <img src="images/logo.png" alt="image">
         </a>
       </div>
       <div class="mobile-site-title"><a href="#">Fityan Ali Munshi</a></div>

@@ -3,7 +3,7 @@
         <div class="section-inner custom-page-content">
           <div class="section-title-block second-style">
             <h2 class="section-title">Resume</h2>
-            <h5 class="section-description">3 Years of Experience</h5>
+            <h5 class="section-description">2+ Years of Experience</h5>
           </div>
       
           <div class="section-content">
@@ -186,7 +186,7 @@
 
 
                     <div class="block-title ts-10">
-                      <h3>Mobile Skills<span></span></h3>
+                      <h3>Mobile Apps Skills<span></span></h3>
                     </div>
 
 
