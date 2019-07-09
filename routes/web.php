@@ -15,3 +15,6 @@ Route::get('/', 'HomeController@index');
 Route::get('/pis', function () {
     return view('menu.portfolio-pis');
 });
+Route::get('/hiber-mobile', function () {
+    return view('menu.portfolio-hiber-mobile');
+});

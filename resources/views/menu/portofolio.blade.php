@@ -18,10 +18,10 @@
                                   <a class="filter btn btn-sm btn-link" data-group="category_all">All</a>
                                 </li>
                                 <li>
-                                  <a class="filter btn btn-sm btn-link" data-group="category_media">Web</a>
+                                  <a class="filter btn btn-sm btn-link" data-group="category_web">Web</a>
                                 </li>
                                 <li>
-                                  <a class="filter btn btn-sm btn-link" data-group="category_mockups">Mobile</a>
+                                  <a class="filter btn btn-sm btn-link" data-group="category_mobile">Mobile</a>
                                 </li>
                                 <li>
                                   <a class="filter btn btn-sm btn-link" data-group="category_soundcloud">Backend</a>
@@ -39,7 +39,7 @@
                                 
                        
       
-                                <figure class="item standard" data-groups='["category_all", "category_media"]'>
+                                <figure class="item standard" data-groups='["category_all", "category_web"]'>
                                   <div class="portfolio-item-img">
                                     <img src="images/portfolio/pis/6.png" alt="Pilates Information System" title="" />
                                     <a href="/pis" class="ajax-page-load"></a>
@@ -52,15 +52,15 @@
       
                          
       
-                                <figure class="item standard" data-groups='["category_all", "category_media"]'>
+                                <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                   <div class="portfolio-item-img">
                                     <img src="images/portfolio/4.jpg" alt="Media Project 1" title="" />
-                                    <a href="/pis" class="ajax-page-load"></a>
+                                    <a href="/hiber-mobile" class="ajax-page-load"></a>
                                   </div>
       
                                   <i class="far fa-file-alt"></i>
-                                  <h4 class="name">Media Project 1</h4>
-                                  <span class="category">Media</span>
+                                  <h4 class="name">Hiber Client</h4>
+                                  <span class="category">Mobile Apps</span>
                                 </figure>
       
                                 
