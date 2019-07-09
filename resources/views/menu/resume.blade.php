@@ -22,10 +22,9 @@
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
-                        <h4 class="item-title">Teknik Komputer</h4>
+                        <h4 class="item-title">Sistem Komputer</h4>
                         <p>
-                          Computer engineering is a branch of engineering that integrates several fields of computer science
-                          and electronics engineering required to develop computer hardware and software.</p>
+                          Sistem komputer adalah cabang teknik yang mengintegrasikan beberapa bidang ilmu komputer dan rekayasa elektronik diperlukan untuk mengembangkan perangkat keras dan lunak komputer.</p>
                       </div>
                     </div>
       
@@ -39,13 +38,19 @@
                   <div class="timeline timeline-second-style clearfix">
                     <div class="timeline-item clearfix">
                       <div class="left-part">
-                        <h5 class="item-period">2017 - Current</h5>
+                        <h5 class="item-period">Juni 2017 - Saat ini</h5>
                         <span class="item-company">PT. Eidara Matadata Presisi</span>
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
                         <h4 class="item-title">Staff System Developer</h4>
-                        <p>Rest-API, Google Maps API, Laravel & Lumen, Ionic Framework, Push Notification, Mysql, Angular 7</p>
+                        <p>Membuat Rest-API,
+                       Menampilkan peta dan memodifikasinya menggunakan Google Maps API,
+                       Membuat Backend/Website menggunakan Laravel & Lumen,
+                        Membuat aplikasi mobile menggunakan Ionic Framework,
+                       Push Notification,
+                       Database menggunakan Mysql,
+                       Front-end menggunakan Angular 7 </p>
                       </div>
                     </div>
                   </div>
@@ -64,16 +69,18 @@
                       <div class="divider"></div>
                       <div class="right-part">
                         <h4 class="item-title">Junior Web Programmer</h4>
-                        <p>Using data structure, Implement user interface, Installation of software programming tools,
+                        {{-- <p>Using data structure, Implement user interface, Installation of software programming tools,
                           Writing code in accordance with the principles and best practices guidelines, Implement structured
-                          programming, Using a library or pre-existing component, Create document code, Perform of debugging</p>
-                      </div>
+                          programming, Using a library or pre-existing component, Create document code, Perform of debugging</p> --}}
+                      <p>Menggunakan struktur data, Mengimplementasikan user interface, Melakukan instalasi software tools pemrograman, Menulis kode dengan prinsip sesuai guidelines dan best practices, Mengimplementasikan pemrograman terstruktur, Menggunakan library atau komponen pre-existing, Membuat dokumen kode program, Melakukan debugging</p>
+                        </div>
+
                     </div>
       
                     <div class="timeline-item clearfix">
                       <div class="left-part">
                         <h5 class="item-period">2017</h5>
-                        <span class="item-company">UNIKOM</span>
+                        <span class="item-company">Universitas Komputer Indonesia</span>
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
@@ -90,10 +97,20 @@
                 <div class="col-inner">
       
                   <div class="block-title">
-                    <h3>Coding Skills<span></span></h3>
+                    <h3>Backend Skills<span></span></h3>
                   </div>
       
                   <div class="skills-info skills-second-style">
+                    <!-- Skill 1 -->
+                    <div class="clearfix">
+                      <h4>PHP</h4>
+                      <div class="skill-value">85%</div>
+                    </div>
+                    <div class="skill-container">
+                      <div class="skill-percentage skill-5"></div>
+                    </div>
+                    <!-- /Skill 1 -->
+
                     <!-- Skill 1 -->
                     <div class="clearfix">
                       <h4>Laravel & Lumen Framework</h4>
@@ -103,7 +120,76 @@
                       <div class="skill-percentage skill-5"></div>
                     </div>
                     <!-- /Skill 1 -->
+
+                     <!-- Skill 7 -->
+                     <div class="clearfix">
+                      <h4>SQL</h4>
+                      <div class="skill-value">70%</div>
+                    </div>
+                    <div class="skill-container">
+                      <div class="skill-percentage skill-6"></div>
+                    </div>
+                    <!-- /Skill 6 -->
       
+      
+                 
+      
+            
+                   
+      
+                    
+                    <div class="block-title ts-10">
+                      <h3>Frontend Skills<span></span></h3>
+                    </div>
+
+                       <!-- Skill 3 -->
+                       <div class="clearfix">
+                        <h4>Javascript & TypeScript</h4>
+                        <div class="skill-value">75%</div>
+                      </div>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-8"></div>
+                      </div>
+                      <!-- /Skill 3 -->
+
+                       <!-- Skill 3 -->
+                       <div class="clearfix">
+                        <h4>Angular 5+</h4>
+                        <div class="skill-value">75%</div>
+                      </div>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-8"></div>
+                      </div>
+                      <!-- /Skill 3 -->
+        
+                      <!-- Skill 4 -->
+                      <div class="clearfix">
+                        <h4>Bootstrap Framework</h4>
+                        <div class="skill-value">85%</div>
+                      </div>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-5"></div>
+                      </div>
+                      <!-- /Skill 4 -->
+
+
+
+                    <div class="clearfix">
+                      <h4>Google Maps API</h4>
+                      <div class="skill-value">85%</div>
+                    </div>
+                    <div class="skill-container">
+                      <div class="skill-percentage skill-5"></div>
+                    </div>
+      
+                    
+
+
+                    <div class="block-title ts-10">
+                      <h3>Mobile Skills<span></span></h3>
+                    </div>
+
+
                     <!-- Skill 2 -->
                     <div class="clearfix">
                       <h4>Ionic Framework</h4>
@@ -112,82 +198,20 @@
                     <div class="skill-container">
                       <div class="skill-percentage skill-5"></div>
                     </div>
+
+                    <!-- Skill 2 -->
+                    <div class="clearfix">
+                      <h4>Flutter Framework</h4>
+                      <div class="skill-value">on progress</div>
+                    </div>
+                    <div class="skill-container">
+                    </div>
                     <!-- /Skill 2 -->
-      
-                    <!-- Skill 3 -->
-                    <div class="clearfix">
-                      <h4>Angular 5+</h4>
-                      <div class="skill-value">80%</div>
-                    </div>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-3"></div>
-                    </div>
-                    <!-- /Skill 3 -->
-      
-                    <!-- Skill 4 -->
-                    <div class="clearfix">
-                      <h4>Bootstrap Framework</h4>
-                      <div class="skill-value">85%</div>
-                    </div>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-5"></div>
-                    </div>
-                    <!-- /Skill 4 -->
-      
-                    <!-- Skill 5 -->
-                    <div class="clearfix">
-                      <h4>JavaScript & TypesSript</h4>
-                      <div class="skill-value">85%</div>
-                    </div>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-5"></div>
-                    </div>
-                    <!-- /Skill 5 -->
-      
-                    <!-- Skill 6 -->
-                    <div class="clearfix">
-                      <h4>PHP </h4>
-                      <div class="skill-value">85%</div>
-                    </div>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-5"></div>
-                    </div>
-                    <!-- /Skill 6 -->
-      
-                    <!-- Skill 7 -->
-                    <div class="clearfix">
-                      <h4>HTML / CSS</h4>
-                      <div class="skill-value">100%</div>
-                    </div>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-9"></div>
-                    </div>
-                    <!-- /Skill 6 -->
-      
-                    <div class="block-title ts-10">
-                      <h3>Other Skills<span></span></h3>
-                    </div>
-      
-      
+                    <!-- /Skill 2 -->
                     <div class="skills-info skills-second-style">
-                      <!-- Skill 5 -->
-                      <div class="clearfix">
-                        <h4>Google Maps API</h4>
-                        <div class="skill-value">85%</div>
-                      </div>
-                      <div class="skill-container">
-                        <div class="skill-percentage skill-5"></div>
-                      </div>
-                      <!-- /Skill 5 -->
-      
+                   
                       <!-- Skill 6 -->
-                      <div class="clearfix">
-                        <h4>Use Google Search Engine</h4>
-                        <div class="skill-value">100%</div>
-                      </div>
-                      <div class="skill-container">
-                        <div class="skill-percentage skill-9"></div>
-                      </div>
+                      
                       <!-- /Skill 6 -->
       
                       <!-- Skill 7 -->
