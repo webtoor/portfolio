@@ -81,6 +81,19 @@
                                     <span class="category">Web Application</span>
                                   </figure>
                                     <!-- PIS -->
+
+                                      <!-- HIBER DRONER -->
+                                <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
+                                  <div class="portfolio-item-img">
+                                    <img src="images/portfolio/drupadi/1.png" alt="Media Project 1" title="" />
+                                    <a href="/drupadi" class="ajax-page-load"></a>
+                                  </div>
+      
+                                  <i class="far fa-file-alt"></i>
+                                  <h4 class="name">Drupadi</h4>
+                                  <span class="category">Mobile Apps</span>
+                                </figure>
+                                <!-- HIBER DRONER -->
       
                               
                               </div>

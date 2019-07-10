@@ -3,8 +3,8 @@
         <div class="ajax-page-wrapper">
             <div class="ajax-page-nav">
                 <div class="nav-item ajax-page-prev-next">
-                    <a class="ajax-page-load" href="/"><i class="lnr lnr-chevron-left"></i></a>
-                    <a class="ajax-page-load" href="/pis"><i class="lnr lnr-chevron-right"></i></a>
+                    <a class="ajax-page-load" href="/pis"><i class="lnr lnr-chevron-left"></i></a>
+                    <a class="ajax-page-load" href="/hiber-droner"><i class="lnr lnr-chevron-right"></i></a>
                 </div>
                 <div class="nav-item ajax-page-close-button">
                     <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
@@ -62,7 +62,7 @@
                             <h3>Description</h3>
                         </div>
                         <ul class="project-general-info">
-                            <li><p><i class="fa fa-user"></i> Hiber client</p></li>
+                            <li><p><i class="fa fa-user"></i> Hiber Client</p></li>
                             <li><p><i class="fab fa-google-play"></i> <a href="https://play.google.com/store/apps/details?id=com.hiber.users" target="_blank">Play Store</a></p></li>
                             <li><p><i class="fa fa-calendar"></i> 25 Agustus, 2017 - Now</p></li>
                         </ul>

@@ -13,11 +13,15 @@
 
 Route::get('/', 'HomeController@index');
 Route::get('/pis', function () {
-    return view('menu.portfolio.portfolio-pis');
+    return view('menu.portfolio.pis');
 });
 Route::get('/hiber-mobile', function () {
-    return view('menu.portfolio.portfolio-hiber-mobile');
+    return view('menu.portfolio.hiber-mobile');
 });
 Route::get('/hiber-droner', function () {
-    return view('menu.portfolio.portfolio-hiber-droner');
+    return view('menu.portfolio.hiber-droner');
+});
+
+Route::get('/drupadi', function () {
+    return view('menu.portfolio.drupadi');
 });

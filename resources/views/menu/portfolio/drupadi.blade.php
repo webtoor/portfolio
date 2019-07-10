@@ -3,7 +3,7 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/hiber-droner"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/pis"><i class="lnr lnr-chevron-left"></i></a>
                 <a class="ajax-page-load" href="/hiber-mobile"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
@@ -12,42 +12,39 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Pilates Information System</h1>
+            <h1>Drupadi</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/pis/1.png" alt="" />
+                        <img src="images/portfolio/drupadi/1.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/pis/2.png" alt="" />
+                        <img src="images/portfolio/drupadi/2.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/pis/3.png" alt="" />
+                        <img src="images/portfolio/drupadi/3.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/pis/4.png" alt="" />
+                        <img src="images/portfolio/drupadi/4.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/pis/5.png" alt="" />
+                        <img src="images/portfolio/drupadi/5.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/pis/6.png" alt="" />
+                        <img src="images/portfolio/drupadi/6.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/pis/7.png" alt="" />
+                        <img src="images/portfolio/drupadi/7.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/drupadi/8.png" alt="" />
                     </div>
                 </div>
 
              
-
-                <!--
-                <div class="portfolio-page-image">
-                    <img src="images/portfolio/1.jpg" alt="">
-                </div>
-                -->
 
                 <script type="text/javascript">
                     jQuery(document).ready(function($){
@@ -73,13 +70,12 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> PIS</p></li>
-                        <li><p><i class="fa fa-globe"></i> <a href="http://pilates.eidaramata.com" target="_blank">pilates.eidaramata.com</a></p></li>
-                        <li><p><i class="fa fa-calendar"></i> 25 december, 2018 - Now</p></li>
+                        <li><p><i class="fa fa-user"></i> Hiber Droner</p></li>
+                        <li><p><i class="fab fa-google-play"></i> <a href="#">Play Store</a></p></li>
+                        <li><p><i class="fa fa-calendar"></i> Juli 2017 - Oktober 2017</p></li>
                     </ul>
 
-                    <p>Merupakan platform sistem informasi pilates, memiliki fitur-fitur seperti membuat cabang, membuat/mengubah/menghapus user, penjadwalan, paket2 yang tersedia, notifikasi, dll. 
-                    Selain itu pada sistem ini terdapat 3 role, yaitu Admin, trainer dan client.</p>
+                    <p>A</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
@@ -88,12 +84,9 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>Laravel Framework</a></li>
-                            <li><a>Bootstrap Framework</a></li>
-                            <li><a>HTML5</a></li>
-                            <li><a>CSS</a></li>
-                            <li><a>jQuery</a></li>
-                            <li><a>Ajax</a></li>
+                            <li><a>Ionic Framework</a></li>
+                            <li><a>Google Maps API</a></li>
+                            <li><a>Push Notification</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->
