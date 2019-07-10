@@ -59,10 +59,10 @@
                             <!-- Service Item 1 -->
                             <div class="info-block-w-icon">
                               <div class="ci-icon">
-                                <i class="lnr lnr-store"></i>
+                                <i class="lnr lnr-rocket"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Ecommerce</h4>
+                                <h4>Crypto Trader</h4>
                                 <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
                               </div>
                             </div>
@@ -74,7 +74,7 @@
                                 <i class="lnr lnr-laptop-phone"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Web Design</h4>
+                                <h4>Web Application</h4>
                                 <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
                               </div>
                             </div>
@@ -89,10 +89,10 @@
                             <!-- Service Item 3 -->
                             <div class="info-block-w-icon">
                               <div class="ci-icon">
-                                <i class="lnr lnr-pencil"></i>
+                                <i class="lnr lnr-smartphone"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Copywriter</h4>
+                                <h4>Mobile Apps</h4>
                                 <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
                               </div>
                             </div>
@@ -101,10 +101,10 @@
                             <!-- Service Item 4 -->
                             <div class="info-block-w-icon">
                               <div class="ci-icon">
-                                <i class="lnr lnr-flag"></i>
+                                <i class="lnr lnr-book"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Management</h4>
+                                <h4>Reading</h4>
                                 <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
                               </div>
                             </div>

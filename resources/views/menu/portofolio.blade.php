@@ -41,7 +41,7 @@
       
                                 <figure class="item standard" data-groups='["category_all", "category_web"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/pis/6.png" alt="Pilates Information System" title="" />
+                                    <img src="images/portfolio/pis/8.png" alt="Pilates Information System" title="" />
                                     <a href="/pis" class="ajax-page-load"></a>
                                   </div>
       
@@ -54,7 +54,7 @@
                                 <!-- HIBER CLIENT -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/4.jpg" alt="Media Project 1" title="" />
+                                    <img src="images/portfolio/hiber-client/1.png" alt="Media Project 1" title="" />
                                     <a href="/hiber-mobile" class="ajax-page-load"></a>
                                   </div>
       
@@ -68,7 +68,7 @@
                                 <!-- HIBER DRONER -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                     <div class="portfolio-item-img">
-                                      <img src="images/portfolio/4.jpg" alt="Media Project 1" title="" />
+                                      <img src="images/portfolio/hiber-client/1.png" alt="Media Project 1" title="" />
                                       <a href="/hiber-droner" class="ajax-page-load"></a>
                                     </div>
         

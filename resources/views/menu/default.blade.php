@@ -8,7 +8,8 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'Webtoor') }}</title>
+    <link rel="shortcut icon" href="images/logo.png">
 
     <!-- Styles -->
 	<link href="{{ mix('/css/app.css') }}" rel="stylesheet">
