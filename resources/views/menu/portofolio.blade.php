@@ -72,7 +72,7 @@
                                   <!-- PIS -->
                                   <figure class="item standard" data-groups='["category_all", "category_web"]'>
                                     <div class="portfolio-item-img">
-                                      <img src="images/portfolio/pis/8.png" alt="Pilates Information System" title="" />
+                                      <img src="images/portfolio/pis/100.png" alt="Pilates Information System" title="" />
                                       <a href="/pis" class="ajax-page-load"></a>
                                     </div>
         
@@ -82,7 +82,7 @@
                                   </figure>
                                     <!-- PIS -->
 
-                                      <!-- HIBER DRONER -->
+                                      <!-- DRUPADI -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                   <div class="portfolio-item-img">
                                     <img src="images/portfolio/drupadi/1.png" alt="Media Project 1" title="" />
@@ -93,7 +93,20 @@
                                   <h4 class="name">Drupadi</h4>
                                   <span class="category">Mobile Apps</span>
                                 </figure>
-                                <!-- HIBER DRONER -->
+                                <!-- DRUPADI -->
+
+                                  <!-- WEDDING PETAK -->
+                                  <figure class="item standard" data-groups='["category_all", "category_web"]'>
+                                    <div class="portfolio-item-img">
+                                      <img src="images/portfolio/petak-wedding/100.png" alt="Pilates Information System" title="" />
+                                      <a href="/petakwedding" class="ajax-page-load"></a>
+                                    </div>
+        
+                                    <i class="far fa-file-alt"></i>
+                                    <h4 class="name">Wedding Invitation</h4>
+                                    <span class="category">Front-end</span>
+                                  </figure>
+                                    <!-- WEDDING PETAK -->
       
                               
                               </div>

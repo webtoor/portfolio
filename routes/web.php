@@ -25,3 +25,6 @@ Route::get('/hiber-droner', function () {
 Route::get('/drupadi', function () {
     return view('menu.portfolio.drupadi');
 });
+Route::get('/petakwedding', function () {
+    return view('menu.portfolio.petakwedding');
+});
