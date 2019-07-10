@@ -1,4 +1,4 @@
-@extends('menu.default')
+@extends('menu.partials.default')
     @section('content')
         @include('menu.about-me')
         @include('menu.resume')

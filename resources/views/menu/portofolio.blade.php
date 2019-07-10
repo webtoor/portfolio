@@ -24,7 +24,7 @@
                                   <a class="filter btn btn-sm btn-link" data-group="category_mobile">Mobile</a>
                                 </li>
                                 <li>
-                                  <a class="filter btn btn-sm btn-link" data-group="category_soundcloud">Backend</a>
+                                  <a class="filter btn btn-sm btn-link" data-group="category_backend">Backend</a>
                                 </li>
                                 <li>
                                   <a class="filter btn btn-sm btn-link" data-group="category_front-end">Front-end</a>
