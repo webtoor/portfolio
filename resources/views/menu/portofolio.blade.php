@@ -27,7 +27,7 @@
                                   <a class="filter btn btn-sm btn-link" data-group="category_soundcloud">Backend</a>
                                 </li>
                                 <li>
-                                  <a class="filter btn btn-sm btn-link" data-group="category_vimeo-videos">Front-end</a>
+                                  <a class="filter btn btn-sm btn-link" data-group="category_front-end">Front-end</a>
                                 </li>
                                 <li>
                                   <a class="filter btn btn-sm btn-link" data-group="category_youtube-videos">Database</a>
@@ -96,7 +96,7 @@
                                 <!-- DRUPADI -->
 
                                   <!-- WEDDING PETAK -->
-                                  <figure class="item standard" data-groups='["category_all", "category_web"]'>
+                                  <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                                     <div class="portfolio-item-img">
                                       <img src="images/portfolio/petak-wedding/100.png" alt="Pilates Information System" title="" />
                                       <a href="/petakwedding" class="ajax-page-load"></a>

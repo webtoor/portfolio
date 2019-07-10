@@ -28,3 +28,7 @@ Route::get('/drupadi', function () {
 Route::get('/petakwedding', function () {
     return view('menu.portfolio.petakwedding');
 });
+Route::get('/hiber-api', function () {
+    return view('menu.portfolio.hiber-api');
+});
+
