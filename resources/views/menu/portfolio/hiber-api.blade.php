@@ -51,7 +51,7 @@
                     </div>
                     <ul class="project-general-info">
                         <li><p><i class="fa fa-user"></i> Rest-Api</p></li>
-                        <li><p><i class="fab fa-google-play"></i> <a href="https://play.google.com/store/apps/details?id=com.hiber.users" target="_blank">Play Store</a></p></li>
+                        <li><p><i class="fa fa-globe"></i> <a href="http://hiber.eidaramata.com" target="_blank">http://hiber.eidaramata.com</a></p></li>
                         <li><p><i class="fa fa-calendar"></i> 25 Agustus, 2017 - Now</p></li>
                     </ul>
 
@@ -66,6 +66,7 @@
                         <ul class="tags">
                             <li><a>Lumen Framework</a></li>
                             <li><a>Oauth2</a></li>
+                            <li><a>Mysql</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->
