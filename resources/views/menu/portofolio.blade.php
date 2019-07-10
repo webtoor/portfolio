@@ -38,18 +38,8 @@
                               <div class="portfolio-grid three-columns">
                                 
                        
-      
-                                <figure class="item standard" data-groups='["category_all", "category_web"]'>
-                                  <div class="portfolio-item-img">
-                                    <img src="images/portfolio/pis/8.png" alt="Pilates Information System" title="" />
-                                    <a href="/pis" class="ajax-page-load"></a>
-                                  </div>
-      
-                                  <i class="far fa-file-alt"></i>
-                                  <h4 class="name">Pilates Information System</h4>
-                                  <span class="category">Web Application</span>
-                                </figure>
-      
+                               
+     
                          
                                 <!-- HIBER CLIENT -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
@@ -79,7 +69,18 @@
                                   <!-- HIBER DRONER -->
 
       
-                                
+                                  <!-- PIS -->
+                                  <figure class="item standard" data-groups='["category_all", "category_web"]'>
+                                    <div class="portfolio-item-img">
+                                      <img src="images/portfolio/pis/8.png" alt="Pilates Information System" title="" />
+                                      <a href="/pis" class="ajax-page-load"></a>
+                                    </div>
+        
+                                    <i class="far fa-file-alt"></i>
+                                    <h4 class="name">Pilates Information System</h4>
+                                    <span class="category">Web Application</span>
+                                  </figure>
+                                    <!-- PIS -->
       
                               
                               </div>
