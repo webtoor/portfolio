@@ -5,7 +5,7 @@
             <h2 class="section-title">Blog</h2>
             <h5 class="section-description">My Diary</h5>
           </div>
-          Under Construction
+          <b>Coming soon</b>
          
           </div>
       </section>

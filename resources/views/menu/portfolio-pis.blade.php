@@ -103,9 +103,9 @@
                         <div class="block-title">
                             <h3>Share</h3>
                         </div>
-                        <a href="#" target="_blank" class="btn"><i class="fab fa-facebook"></i> </a>
-                        <a href="#" target="_blank" class="btn"><i class="fab fa-twitter"></i> </a>
-                        <a href="#" target="_blank" class="btn"><i class="fab fa-dribbble"></i> </a>
+                        <a href="#" class="btn"><i class="fab fa-facebook"></i> </a>
+                        <a href="#" class="btn"><i class="fab fa-twitter"></i> </a>
+                        <a href="#" class="btn"><i class="fab fa-dribbble"></i> </a>
                     </div>
                     <!-- /Share Buttons -->
                 </div>

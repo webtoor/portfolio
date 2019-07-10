@@ -68,7 +68,7 @@
                                 <!-- HIBER DRONER -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                     <div class="portfolio-item-img">
-                                      <img src="images/portfolio/hiber-client/1.png" alt="Media Project 1" title="" />
+                                      <img src="images/portfolio/hiber-droner/1.png" alt="Media Project 1" title="" />
                                       <a href="/hiber-droner" class="ajax-page-load"></a>
                                     </div>
         

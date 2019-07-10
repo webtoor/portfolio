@@ -37,12 +37,7 @@
     
                  
     
-                    <!--
-                    <div class="portfolio-page-image">
-                        <img src="images/portfolio/1.jpg" alt="">
-                    </div>
-                    -->
-    
+                
                     <script type="text/javascript">
                         jQuery(document).ready(function($){
     
@@ -68,7 +63,7 @@
                         </div>
                         <ul class="project-general-info">
                             <li><p><i class="fa fa-user"></i> Hiber client</p></li>
-                            <li><p><i class="fa fa-globe"></i> <a href="http://pilates.eidaramata.com" target="_blank">pilates.eidaramata.com</a></p></li>
+                            <li><p><i class="fab fa-google-play"></i> <a href="https://play.google.com/store/apps/details?id=com.hiber.users" target="_blank">Play Store</a></p></li>
                             <li><p><i class="fa fa-calendar"></i> 25 Agustus, 2017 - Now</p></li>
                         </ul>
     
@@ -92,9 +87,9 @@
                             <div class="block-title">
                                 <h3>Share</h3>
                             </div>
-                            <a href="#" target="_blank" class="btn"><i class="fab fa-facebook"></i> </a>
-                            <a href="#" target="_blank" class="btn"><i class="fab fa-twitter"></i> </a>
-                            <a href="#" target="_blank" class="btn"><i class="fab fa-dribbble"></i> </a>
+                            <a href="#" class="btn"><i class="fab fa-facebook"></i> </a>
+                            <a href="#" class="btn"><i class="fab fa-twitter"></i> </a>
+                            <a href="#" class="btn"><i class="fab fa-dribbble"></i> </a>
                         </div>
                         <!-- /Share Buttons -->
                     </div>
