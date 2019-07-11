@@ -50,7 +50,7 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> Rest-Api</p></li>
+                        <li><p><i class="fa fa-user"></i> PT.Eidara Matadata Presisi</p></li>
                         <li><p><i class="fa fa-globe"></i> <a href="http://hiber.eidaramata.com" target="_blank">http://hiber.eidaramata.com</a></p></li>
                         <li><p><i class="fa fa-calendar"></i> 25 Agustus, 2017 - Now</p></li>
                     </ul>

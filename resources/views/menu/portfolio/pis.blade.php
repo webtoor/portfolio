@@ -66,7 +66,7 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> PIS</p></li>
+                        <li><p><i class="fa fa-user"></i> PT.Eidara Matadata Presisi</p></li>
                         <li><p><i class="fa fa-globe"></i> <a href="http://pilates.eidaramata.com" target="_blank">pilates.eidaramata.com</a></p></li>
                         <li><p><i class="fa fa-calendar"></i> 25 december, 2018 - Now</p></li>
                     </ul>

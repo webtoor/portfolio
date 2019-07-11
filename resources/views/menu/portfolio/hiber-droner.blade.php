@@ -67,7 +67,7 @@
                             <h3>Description</h3>
                         </div>
                         <ul class="project-general-info">
-                            <li><p><i class="fa fa-user"></i> Hiber Droner</p></li>
+                            <li><p><i class="fa fa-user"></i> PT.Eidara Matadata Presisi</p></li>
                             <li><p><i class="fab fa-google-play"></i> <a href="https://play.google.com/store/apps/details?id=com.hiber.droners" target="_blank">Play Store</a></p></li>
                             <li><p><i class="fa fa-calendar"></i> 25 Agustus, 2017 - Now</p></li>
                         </ul>
