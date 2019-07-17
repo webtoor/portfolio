@@ -62,7 +62,7 @@
                                 <i class="lnr lnr-rocket"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Crypto Trader</h4>
+                                <h4>Crypto Trader & Holder</h4>
                                 <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
                               </div>
                             </div>
