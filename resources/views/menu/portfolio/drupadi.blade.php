@@ -75,7 +75,7 @@
                         <li><p><i class="fa fa-calendar"></i> Juli 2017 - Oktober 2017</p></li>
                     </ul>
 
-                    <p>A</p>
+                    <p></p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->

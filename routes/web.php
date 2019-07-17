@@ -31,4 +31,7 @@ Route::get('/petakwedding', function () {
 Route::get('/hiber-api', function () {
     return view('menu.portfolio.hiber-api');
 });
+Route::get('/db_complain', function () {
+    return view('menu.portfolio.db_complain');
+});
 

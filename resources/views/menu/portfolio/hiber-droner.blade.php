@@ -72,7 +72,7 @@
                             <li><p><i class="fa fa-calendar"></i> 25 Agustus, 2017 - Now</p></li>
                         </ul>
     
-                        <p>A</p>
+                        <p></p>
                         <!-- /Project Description -->
     
                         <!-- Technology -->

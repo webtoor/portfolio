@@ -30,7 +30,7 @@
                                   <a class="filter btn btn-sm btn-link" data-group="category_front-end">Front-end</a>
                                 </li>
                                 <li>
-                                  <a class="filter btn btn-sm btn-link" data-group="category_youtube-videos">Database</a>
+                                  <a class="filter btn btn-sm btn-link" data-group="category_database">Database</a>
                                 </li>
                               </ul>
       
@@ -121,7 +121,18 @@
                                   </figure>
                                     <!-- WEDDING PETAK -->
       
-                              
+                              <!-- DB_COMPLAIN -->
+                              <figure class="item standard" data-groups='["category_all", "category_database"]'>
+                                <div class="portfolio-item-img">
+                                  <img src="images/portfolio/database/100.png" alt="Pilates Information System" title="" />
+                                  <a href="/db_complain" class="ajax-page-load"></a>
+                                </div>
+    
+                                <i class="far fa-file-alt"></i>
+                                <h4 class="name">Database Schema</h4>
+                                <span class="category">Database</span>
+                              </figure>
+                                <!-- DB_COMPLAIN -->
                               </div>
                             </div>
                             <!-- /Portfolio Content -->

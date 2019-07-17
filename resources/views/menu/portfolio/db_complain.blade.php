@@ -3,8 +3,8 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/hiber-rest"><i class="lnr lnr-chevron-left"></i></a>
-                <a class="ajax-page-load" href="/pis"><i class="lnr lnr-chevron-right"></i></a>
+                <a class="ajax-page-load" href="/petakwedding"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/hiber-mobile"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
@@ -49,12 +49,12 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> </p></li>
+                        <li><p><i class="fa fa-user"></i>Complain Apps </p></li>
                         <li><p><i class="fab fa-google-play"></i> <a href="#">Play Store</a></p></li>
-                        <li><p><i class="fa fa-calendar"></i> Juli 2017 - Oktober 2017</p></li>
+                        <li><p><i class="fa fa-calendar"></i> September 2018</p></li>
                     </ul>
 
-                    <p>A</p>
+                    <p></p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
