@@ -12,7 +12,7 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Rest API Hiber Apps</h1>
+            <h1>Rest API Complain</h1>
         </div>
 
         <div class="row">
@@ -50,9 +50,9 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> PT.Eidara Matadata Presisi</p></li>
-                        <li><p><i class="fa fa-globe"></i> <a href="http://hiber.eidaramata.com" target="_blank">http://hiber.eidaramata.com</a></p></li>
-                        <li><p><i class="fa fa-calendar"></i> 25 Agustus, 2017 - Now</p></li>
+                        <li><p><i class="fa fa-user"></i> Complain Apps</p></li>
+                        <li><p><i class="fa fa-globe"></i> <a href="https://devcomplain.com" target="_blank">https://devcomplain.com</a></p></li>
+                        <li><p><i class="fa fa-calendar"></i> November 2018 - February 2019</p></li>
                     </ul>
 
                     <p></p>
