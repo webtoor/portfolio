@@ -3,8 +3,8 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/pis"><i class="lnr lnr-chevron-left"></i></a>
-                <a class="ajax-page-load" href="/hiber-droner"><i class="lnr lnr-chevron-right"></i></a>
+                <a class="ajax-page-load" href="/db_complain"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/hiber-mobile"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
@@ -19,7 +19,7 @@
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/comlain-api/1.png" alt="" />
+                        <img src="images/portfolio/complain-api/1.png" alt="" />
                     </div>
                 </div>
 

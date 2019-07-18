@@ -133,9 +133,8 @@
                                 <span class="category">Database</span>
                               </figure>
                                 <!-- DB_COMPLAIN -->
-                              </div>
 
-                               <!-- DB_COMPLAIN -->
+                                           <!-- DB_COMPLAIN -->
                                <figure class="item standard" data-groups='["category_all", "category_backend"]'>
                                 <div class="portfolio-item-img">
                                   <img src="images/portfolio/complain-api/100.png" alt="Pilates Information System" title="" />
@@ -147,6 +146,9 @@
                                 <span class="category">Backend</span>
                               </figure>
                                 <!-- DB_COMPLAIN -->
+                              </div>
+
+                    
                               </div>
                             </div>
                             <!-- /Portfolio Content -->
