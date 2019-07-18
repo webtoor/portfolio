@@ -34,4 +34,8 @@ Route::get('/hiber-api', function () {
 Route::get('/db_complain', function () {
     return view('menu.portfolio.db_complain');
 });
+Route::get('/complain-api', function () {
+    return view('menu.portfolio.complain-api');
+});
+
 
