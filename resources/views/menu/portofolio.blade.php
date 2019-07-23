@@ -44,12 +44,12 @@
                                 <!-- HIBER CLIENT -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/hiber-client/1.png" alt="Media Project 1" title="" />
+                                    <img src="images/portfolio/hiber-client/1_blur.png" alt="Media Project 1" title="" />
                                     <a href="/hiber-mobile" class="ajax-page-load"></a>
                                   </div>
       
                                   <i class="far fa-file-alt"></i>
-                                  <h4 class="name">Hiber Client</h4>
+                                  <h4 class="name">H**** Client</h4>
                                   <span class="category">Mobile Apps</span>
                                 </figure>
                                 <!-- HIBER CLIENT -->
@@ -58,12 +58,12 @@
                                 <!-- HIBER DRONER -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                     <div class="portfolio-item-img">
-                                      <img src="images/portfolio/hiber-droner/1.png" alt="Media Project 1" title="" />
+                                      <img src="images/portfolio/hiber-droner/1_blur.png" alt="Media Project 1" title="" />
                                       <a href="/hiber-droner" class="ajax-page-load"></a>
                                     </div>
         
                                     <i class="far fa-file-alt"></i>
-                                    <h4 class="name">Hiber Droner</h4>
+                                    <h4 class="name">H**** Droner</h4>
                                     <span class="category">Mobile Apps</span>
                                   </figure>
                                   <!-- HIBER DRONER -->
@@ -76,7 +76,7 @@
                                   </div>
       
                                   <i class="far fa-file-alt"></i>
-                                  <h4 class="name">Hiber Rest-API</h4>
+                                  <h4 class="name">H**** Rest-API</h4>
                                   <span class="category">Backend</span>
                                 </figure>
                                 <!-- HIBER API -->
@@ -98,12 +98,12 @@
                                       <!-- DRUPADI -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/drupadi/1.png" alt="Media Project 1" title="" />
+                                    <img src="images/portfolio/drupadi/1_blur.png" alt="Media Project 1" title="" />
                                     <a href="/drupadi" class="ajax-page-load"></a>
                                   </div>
       
                                   <i class="far fa-file-alt"></i>
-                                  <h4 class="name">Drupadi</h4>
+                                  <h4 class="name">D******</h4>
                                   <span class="category">Mobile Apps</span>
                                 </figure>
                                 <!-- DRUPADI -->

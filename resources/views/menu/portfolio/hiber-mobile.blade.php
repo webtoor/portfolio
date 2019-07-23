@@ -12,23 +12,23 @@
             </div>
     
             <div class="ajax-page-title">
-                <h1>Hiber Client</h1>
+                <h1>H**** Client</h1>
             </div>
     
             <div class="row">
                 <div class="col-sm-7 col-md-7 portfolio-block">
                     <div class="owl-carousel portfolio-page-carousel">
                         <div class="item">
-                            <img src="images/portfolio/hiber-client/1.png" alt="" />
+                            <img src="images/portfolio/hiber-client/1_blur.png" alt="" />
                         </div>
                         <div class="item">
-                            <img src="images/portfolio/hiber-client/2.png" alt="" />
+                            <img src="images/portfolio/hiber-client/2_blur.png" alt="" />
                         </div>
                         <div class="item">
                             <img src="images/portfolio/hiber-client/3.png" alt="" />
                         </div>
                         <div class="item">
-                            <img src="images/portfolio/hiber-client/4.png" alt="" />
+                            <img src="images/portfolio/hiber-client/4_blur.png" alt="" />
                         </div>
                         <div class="item">
                             <img src="images/portfolio/hiber-client/5.png" alt="" />

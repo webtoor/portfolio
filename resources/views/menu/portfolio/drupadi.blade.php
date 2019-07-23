@@ -12,14 +12,14 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Drupadi</h1>
+            <h1>D******</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/drupadi/1.png" alt="" />
+                        <img src="images/portfolio/drupadi/1_blur.png" alt="" />
                     </div>
                     <div class="item">
                         <img src="images/portfolio/drupadi/2.png" alt="" />
@@ -86,7 +86,6 @@
                         <ul class="tags">
                             <li><a>Ionic Framework</a></li>
                             <li><a>Google Maps API</a></li>
-                            <li><a>Push Notification</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->

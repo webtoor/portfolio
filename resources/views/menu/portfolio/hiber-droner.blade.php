@@ -12,29 +12,29 @@
             </div>
     
             <div class="ajax-page-title">
-                <h1>Hiber Droner</h1>
+                <h1>H**** Droner</h1>
             </div>
     
             <div class="row">
                 <div class="col-sm-7 col-md-7 portfolio-block">
                     <div class="owl-carousel portfolio-page-carousel">
                         <div class="item">
-                            <img src="images/portfolio/hiber-droner/1.png" alt="" />
+                            <img src="images/portfolio/hiber-droner/1_blur.png" alt="" />
                         </div>
                         <div class="item">
-                            <img src="images/portfolio/hiber-droner/2.png" alt="" />
+                            <img src="images/portfolio/hiber-droner/2_blur.png" alt="" />
                         </div>
                         <div class="item">
-                            <img src="images/portfolio/hiber-droner/3.png" alt="" />
+                            <img src="images/portfolio/hiber-droner/3_blur.png" alt="" />
                         </div>
                         <div class="item">
-                            <img src="images/portfolio/hiber-droner/4.png" alt="" />
+                            <img src="images/portfolio/hiber-droner/4_blur.png" alt="" />
                         </div>
                         <div class="item">
                             <img src="images/portfolio/hiber-droner/5.png" alt="" />
                         </div>
                         <div class="item">
-                            <img src="images/portfolio/hiber-droner/6.png" alt="" />
+                            <img src="images/portfolio/hiber-droner/6_blur.png" alt="" />
                         </div>
                         <div class="item">
                             <img src="images/portfolio/hiber-droner/7.png" alt="" />
@@ -83,6 +83,7 @@
                             <ul class="tags">
                                 <li><a>Ionic Framework</a></li>
                                 <li><a>Google Maps API</a></li>
+                                <li><a>Firebase Cloud Messaging</a></li>
                             </ul>
                         </div>
                         <!-- /Technology -->
