@@ -22,9 +22,9 @@
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
-                        <h4 class="item-title">Sistem Komputer</h4>
+                        <h4 class="item-title">Sistem Komputer [S1]</h4>
                         <p>
-                          Sistem komputer adalah cabang teknik yang mengintegrasikan beberapa bidang ilmu komputer dan rekayasa elektronik diperlukan untuk mengembangkan perangkat keras dan lunak komputer.</p>
+                          Cabang teknik yang mengintegrasikan beberapa bidang ilmu komputer dan rekayasa elektronik yang diperlukan untuk mengembangkan perangkat keras & lunak komputer.</p>
                       </div>
                     </div>
       

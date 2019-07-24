@@ -15,18 +15,22 @@
                             <!-- Text rotation / Subtitle -->
                             <div class="owl-carousel text-rotation">  
                             <div class="item">
-                                <div class="sp-subtitle">Backend-developer</div>
+                                <div class="sp-subtitle">Backend-Programmer</div>
                               </div>                                  
                               <div class="item">
-                                <div class="sp-subtitle">Mobile-developer</div>
+                                <div class="sp-subtitle">Mobile Apps-Programmer</div>
                               </div>
                               <div class="item">
-                                <div class="sp-subtitle">Fullstack-developer</div>
+                                <div class="sp-subtitle">WebApps-Programmer</div>
                               </div>
                             </div>
                             <!-- /Text rotation / Subtitle -->
                             <h2 class="hp-main-title">Fityan Ali Munshi</h2>
-                            <p>Praesent sed aliquam arcu, non accumsan neque. In odio ante, vulputate ac magna vel, pharetra lobortis quam. Duis enim tortor, egestas et felis id, lobortis malesuada magna. Nunc sit amet sagittis nisi, eu semper nisl. Cras ut dictum nisl. Donec tincidunt eget orci.</p><p>Aliquam mollis, leo nec commodo facilisis, turpis lorem dapibus erat, sed consectetur nunc nulla ac elit. Suspendisse dictum id dui mollis auctor. Etiam id sapien neque. Cras nec rhoncus sem. Mauris metus ligula, varius vel iaculis at, pulvinar tincidunt magna.</p>
+                            <p>
+                                Berawal dari kebetulan yang terencana secara kosmik.
+                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2 dan anak pertama dari dua bersaudara. Saya tertarik pada dunia teknologi khususnya <i>Programming</i>.
+                                Saya senang mencari cara baru untuk melakukan sesuatu dengan lebih efektif & efisien. Prinsip saya, saya hanya melakukan apa yang harus saya lakukan dan berkomitmen untuk tidak berhenti hingga tujuan tercapai.
+                            </p>
                             <div class="hp-buttons">
                               <a href="#" target="_blank" class="btn btn-primary">Download CV</a>
                             </div>
@@ -63,7 +67,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Crypto Trader & Holder</h4>
-                                <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
+                                <p><b>Hahahaha..</b> selalu antusias dalam dunia Cryptocurrency</p>
                               </div>
                             </div>
                             <!-- /Service Item 1 -->
@@ -74,8 +78,10 @@
                                 <i class="lnr lnr-laptop-phone"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Web Application</h4>
-                                <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
+                                <h4>Web & Mobile Development</h4>
+                                <p>
+                                    Saat ini saya bekerja untuk hal tersebut. Kegiatan yang saya sukai dan sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe
+                                </p>
                               </div>
                             </div>
                             <!-- Service Item 2 -->
@@ -87,7 +93,7 @@
                         <div class="col-inner">
                           <div class="info-list-w-icon">
                             <!-- Service Item 3 -->
-                            <div class="info-block-w-icon">
+                            {{-- <div class="info-block-w-icon">
                               <div class="ci-icon">
                                 <i class="lnr lnr-smartphone"></i>
                               </div>
@@ -95,7 +101,7 @@
                                 <h4>Mobile Apps</h4>
                                 <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
                               </div>
-                            </div>
+                            </div> --}}
                             <!-- Service Item 3 -->
   
                             <!-- Service Item 4 -->
@@ -104,8 +110,9 @@
                                 <i class="lnr lnr-book"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Reading</h4>
-                                <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
+                                <h4>Learn & Reading</h4>
+                                <p>Saya pikir banyak hal menarik di Dunia ini. Selalu penasaran akan hal tersebut, akhirnya bereksplorasi...
+                                </p>
                               </div>
                             </div>
                             <!-- Service Item 4 -->
