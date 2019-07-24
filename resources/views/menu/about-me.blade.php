@@ -6,7 +6,7 @@
                     <div class="row">
                       <div class="col-sm-12 col-md-6 col-lg-6">
                           <div class="inner-content">
-                            <div class="fill-block"></div>
+                            <div class="fill-block" style="height:110%;"></div>
                           </div>
                       </div>
                       <div class="col-sm-12 col-md-6 col-lg-6">
@@ -119,3 +119,32 @@
                 </div>
               </section>
               <!-- End of Home Subpage -->
+              @section('js')
+              <script>
+                  $(document).ready(function() {
+                    try {
+                      $('.fill-block').ripples({
+                        resolution: 512,
+                        dropRadius: 20, //px
+                        perturbance: 0.04,
+                      });
+                    }
+                    catch (e) {
+                      $('.error').show().text(e);
+                    }
+                  
+                  
+                  
+                    // Automatic drops
+                    setInterval(function() {
+                      var $el = $('main');
+                      var x = Math.random() * $el.outerWidth();
+                      var y = Math.random() * $el.outerHeight();
+                      var dropRadius = 20;
+                      var strength = 0.04 + Math.random() * 0.04;
+                  
+                      $el.ripples('drop', x, y, dropRadius, strength);
+                    }, 400);
+                  });
+                  </script>
+              @endsection

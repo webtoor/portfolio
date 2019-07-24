@@ -12,7 +12,7 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Rest API Hiber Apps</h1>
+            <h1>Rest API H**** Apps</h1>
         </div>
 
         <div class="row">

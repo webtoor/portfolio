@@ -73,7 +73,6 @@
       </div>
       <!-- /Main Content -->
     </div>
-    @yield('js')
     <script data-cfasync="false" src="cdn/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery-2.1.3.min.js"></script>
     <script src="js/pages-switcher.js"></script>
     <script src="js/imagesloaded.pkgd.min.js"></script>
@@ -85,52 +84,10 @@
     <script src='https://www.google.com/recaptcha/api.js'></script>
     <script src="js/main.js"></script>
     <script src="js/jquery.ripples.js"></script>
+    @yield('js')
 
     <script src="preview/lmpixels-demo-panel.js"></script>
-    <script>
-        $(document).ready(function() {
-          try {
-            $('.fill-block').ripples({
-              resolution: 512,
-              dropRadius: 20, //px
-              perturbance: 0.04,
-            });
-            $('#tests').ripples({
-              resolution: 128,
-              dropRadius: 10, //px
-              perturbance: 0.04,
-              interactive: false
-            });
-          }
-          catch (e) {
-            $('.error').show().text(e);
-          }
-        
-          $('.js-ripples-disable').on('click', function() {
-            $('body, main').ripples('destroy');
-            $(this).hide();
-          });
-        
-          $('.js-ripples-play').on('click', function() {
-            $('body, main').ripples('play');
-          });
-        
-          $('.js-ripples-pause').on('click', function() {
-            $('body, main').ripples('pause');
-          });
-        
-          // Automatic drops
-          setInterval(function() {
-            var $el = $('main');
-            var x = Math.random() * $el.outerWidth();
-            var y = Math.random() * $el.outerHeight();
-            var dropRadius = 20;
-            var strength = 0.04 + Math.random() * 0.04;
-        
-            $el.ripples('drop', x, y, dropRadius, strength);
-          }, 400);
-        });
-        </script>
+
   
 
 </body>
