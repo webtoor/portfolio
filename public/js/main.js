@@ -21,18 +21,22 @@
     }
     a(function () {
         a('#contact_form').validator(), a('#contact_form').on('submit', function (d) {
-            if (!d.isDefaultPrevented()) {
+          /*   if (!d.isDefaultPrevented()) {
                 return a.ajax({
                     type: 'POST',
-                    url: 'contact_form/contact_form.php',
+                    headers: {
+                        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                        },
+                    url: 'send-email',
                     data: a(this).serialize(),
                     success: function (g) {
+                        console.log(g)
                         var h = 'alert-' + g.type,
                             i = g.message;
                         h && i && (a('#contact_form').find('.messages').html('<div class="alert ' + h + ' alert-dismissable"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>' + i + '</div>'), a('#contact_form')[0].reset())
                     }
                 }), !1
-            }
+            } */
         })
     }), a(window).on('load', function () {
         a('.preloader').fadeOut(800, 'linear');

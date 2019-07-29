@@ -6,3 +6,4 @@
         @include('menu.blog')
         @include('menu.contact')
     @endsection
+  

@@ -12,6 +12,8 @@
 */
 
 Route::get('/', 'HomeController@index');
+Route::post('/send-email', 'HomeController@sendEmail');
+
 Route::get('/pis', function () {
     return view('menu.portfolio.pis');
 });

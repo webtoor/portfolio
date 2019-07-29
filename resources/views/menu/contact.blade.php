@@ -1,5 +1,6 @@
  <!-- Contact Subpage -->
  <section class="pt-page" data-id="contact">
+
         <div class="section-inner custom-page-content">
           <div class="section-title-block second-style">
             <h2 class="section-title">Contact</h2>
@@ -69,7 +70,7 @@
                   <h3>How Can I Help You?</h3>
                 </div>
 
-                <form id="contact_form" class="contact-form" action="contact_form/contact_form.php" method="post">
+                <form id="contact_form" class="contact-form" action="javascript:void(0)" method="post">
 
                   <div class="messages"></div>
 
@@ -105,14 +106,52 @@
 
                     <div class="g-recaptcha" data-sitekey="6LdqmCAUAAAAAMMNEZvn6g4W5e0or2sZmAVpxVqI"></div>
 
-                    <input type="submit" class="button btn-send" value="Send message">
+                    <input type="submit" id="subEmail" class="button btn-send" value="Send message">
                   </div>
                 </form>
               </div>
             </div>
           </div>
         </div>
+        
       </section>
       <!-- End Contact Subpage -->
       
-    
+
+@section('js-contact')
+<script>
+          $(document).ready(function() {
+            console.log('readys')
+
+            $("#subEmail").click(function () {
+              console.log('readyss')
+              var params = {
+                'name' : $('#form_name').val(),
+                'email' :  $('#form_email').val(),
+                'subject' :  $('#form_subject').val(),
+                'message' :  $('#form_message').val(),
+              }
+              console.log(params)
+              $.ajax({
+              headers: {
+              'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+              },
+            contentType: "application/json",
+            dataType: "json",
+            type: 'POST',
+            url: "send-email",
+            data: JSON.stringify(params),
+            success: function (results) {
+              console.log(results);
+              if(results['success'] == 'true'){
+                $('.messages').html('<div class="alert alert-success alert-dismissible"><button type="button" class="close" data-dismiss="alert">&times;</button><strong>Terima kasih!</strong><p>Akan secepatnya saya respon</p></div>');
+                $('#contact_form')[0].reset();
+              }
+            
+        }
+});
+});
+
+});
+</script>
+@endsection

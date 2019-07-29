@@ -28,9 +28,9 @@
                             <h2 class="hp-main-title">Fityan Ali Munshi</h2>
                             <p>
                                 Berawal dari kebetulan yang terencana secara kosmik.
-                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2 dan anak pertama dari dua bersaudara. Saya tertarik pada dunia teknologi khususnya <i>Programming</i>.
-                                Saya senang mencari cara baru untuk melakukan sesuatu dengan lebih efektif & efisien. Prinsip saya, saya hanya melakukan apa yang harus saya lakukan dan berkomitmen untuk tidak berhenti hingga tujuan tercapai.
-                            </p>
+                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2, lahir sebagai anak pertama dari dua bersaudara. Tertarik pada dunia Teknologi Informasi khususnya <i>Programming</i>.
+                                Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya sejak dulu, saya hanya melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga tujuan tercapai.
+                              </p>
                             <div class="hp-buttons">
                               <a href="#" target="_blank" class="btn btn-primary">Download CV</a>
                             </div>
@@ -66,8 +66,8 @@
                                 <i class="lnr lnr-rocket"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Crypto Trader & Holder</h4>
-                                <p><b>Hahahaha..</b> selalu antusias dalam dunia Cryptocurrency</p>
+                                <h4>Crypto Trader </h4>
+                                <p>Hahahaha.. Selalu antusias dalam dunia Cryptocurrency.</p>
                               </div>
                             </div>
                             <!-- /Service Item 1 -->
@@ -111,7 +111,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Learn & Reading</h4>
-                                <p>Saya pikir banyak hal menarik di Dunia ini. Selalu penasaran akan hal tersebut, akhirnya bereksplorasi...
+                                <p>Saya pikir banyak hal menarik di Dunia ini. Selalu penasaran akan hal tersebut, terlebih soal Alam Semesta, Psikologi, Filsafat dan Spiritual.
                                 </p>
                               </div>
                             </div>
@@ -126,9 +126,10 @@
                 </div>
               </section>
               <!-- End of Home Subpage -->
-              @section('js')
+              @section('js-about')
               <script>
                   $(document).ready(function() {
+                    console.log('ready')
                     try {
                       $('.fill-block').ripples({
                         resolution: 512,

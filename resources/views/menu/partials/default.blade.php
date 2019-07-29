@@ -73,7 +73,12 @@
       </div>
       <!-- /Main Content -->
     </div>
-    <script data-cfasync="false" src="cdn/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/jquery-2.1.3.min.js"></script>
+    {{-- <script src="{{ mix('/js/app.js') }}"></script> --}}
+
+    <script data-cfasync="false" src="cdn/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+    <script src="js/jquery-2.1.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
     <script src="js/pages-switcher.js"></script>
     <script src="js/imagesloaded.pkgd.min.js"></script>
     <script src="js/validator.js"></script>
@@ -84,11 +89,10 @@
     <script src='https://www.google.com/recaptcha/api.js'></script>
     <script src="js/main.js"></script>
     <script src="js/jquery.ripples.js"></script>
-    @yield('js')
-
     <script src="preview/lmpixels-demo-panel.js"></script>
+    @yield('js-about')
+    @yield('js-contact')
 
-  
 
 </body>
 
