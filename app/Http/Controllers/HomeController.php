@@ -10,9 +10,11 @@ class HomeController extends Controller
         return view('menu.index');
     }
     public function sendEmail(Request $request){
-        $data = "berhasil";
+        $data = $request->all();
+        
         return response()->json([
-            "success" => "true"
+            "success" => "true",
+            "data" => $data['name']
         ]);
     }
 }
