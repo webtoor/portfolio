@@ -103,17 +103,7 @@
                   <div class="skills-info skills-second-style">
                     <!-- Skill 1 -->
                     <div class="clearfix">
-                      <h4>PHP</h4>
-                      <div class="skill-value">85%</div>
-                    </div>
-                    <div class="skill-container">
-                      <div class="skill-percentage skill-5"></div>
-                    </div>
-                    <!-- /Skill 1 -->
-
-                    <!-- Skill 1 -->
-                    <div class="clearfix">
-                      <h4>Laravel & Lumen Framework</h4>
+                      <h4>PHP [Laravel & Lumen Framework]</h4>
                       <div class="skill-value">85%</div>
                     </div>
                     <div class="skill-container">
@@ -123,19 +113,21 @@
 
                      <!-- Skill 7 -->
                      <div class="clearfix">
-                      <h4>SQL</h4>
+                      <h4>SQL [ORM]</h4>
                       <div class="skill-value">70%</div>
                     </div>
                     <div class="skill-container">
                       <div class="skill-percentage skill-6"></div>
                     </div>
                     <!-- /Skill 6 -->
+
+                    <div class="clearfix">
+                      <h4>GO [Gin Framework]</h4>
+                      <div class="skill-value">on progress</div>
+                    </div>
+                    <div class="skill-container">
+                    </div>
       
-      
-                 
-      
-            
-                   
       
                     
                     <div class="block-title ts-10">
@@ -144,17 +136,7 @@
 
                        <!-- Skill 3 -->
                        <div class="clearfix">
-                        <h4>Javascript & TypeScript</h4>
-                        <div class="skill-value">75%</div>
-                      </div>
-                      <div class="skill-container">
-                        <div class="skill-percentage skill-8"></div>
-                      </div>
-                      <!-- /Skill 3 -->
-
-                       <!-- Skill 3 -->
-                       <div class="clearfix">
-                        <h4>Angular 5+</h4>
+                        <h4>Javascript & TypeScript [Angular 5+]</h4>
                         <div class="skill-value">75%</div>
                       </div>
                       <div class="skill-container">
@@ -164,15 +146,13 @@
         
                       <!-- Skill 4 -->
                       <div class="clearfix">
-                        <h4>Bootstrap Framework</h4>
+                        <h4>HTML& CSS [Bootstrap]</h4>
                         <div class="skill-value">85%</div>
                       </div>
                       <div class="skill-container">
                         <div class="skill-percentage skill-5"></div>
                       </div>
                       <!-- /Skill 4 -->
-
-
 
                     <div class="clearfix">
                       <h4>Google Maps API</h4>
@@ -181,7 +161,15 @@
                     <div class="skill-container">
                       <div class="skill-percentage skill-5"></div>
                     </div>
-      
+                    
+                      <!-- Skill 2 -->
+                      <div class="clearfix">
+                        <h4>ReactJS [NextJS Framework]</h4>
+                        <div class="skill-value">on progress</div>
+                      </div>
+                      <div class="skill-container">
+                      </div>
+                      <!-- /Skill 2 -->
                     
 
 

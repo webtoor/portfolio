@@ -27,9 +27,9 @@
                             <!-- /Text rotation / Subtitle -->
                             <h2 class="hp-main-title">Fityan Ali Munshi</h2>
                             <p>
-                                Berawal dari kebetulan yang terencana secara kosmik.
-                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2, lahir sebagai anak pertama dari dua bersaudara. Tertarik pada dunia Teknologi Informasi khususnya <i>Programming</i>.
-                                Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya sejak dulu, saya hanya melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga tujuan tercapai.
+                                Berawal dari kebetulan yang nampak terencana secara kosmik.
+                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2, menjadi sebagai anak pertama dari dua bersaudara. Tertarik pada dunia Teknologi Informasi khususnya <i>Programming</i>.
+                                Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya, hanya melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga tujuan tercapai.
                               </p>
                             <div class="hp-buttons">
                               <a href="#" target="_blank" class="btn btn-primary">Download CV</a>
@@ -80,7 +80,7 @@
                               <div class="ci-text">
                                 <h4>Web & Mobile Development</h4>
                                 <p>
-                                    Saat ini saya bekerja untuk hal tersebut. Kegiatan yang saya sukai dan sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe
+                                    Saat ini saya bekerja untuk hal ini. Kegiatan yang saya sukai dan sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe
                                 </p>
                               </div>
                             </div>
@@ -111,7 +111,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Learn & Reading</h4>
-                                <p>Saya pikir banyak hal menarik di Dunia ini. Selalu penasaran akan hal tersebut, terlebih soal Alam Semesta, Psikologi, Filsafat dan Spiritual.
+                                <p>Saya pikir banyak hal menarik di Dunia ini. Selalu penasaran akan hal tersebut, terlebih soal Alam Semesta, Sains, Psikologi, Filsafat dan Spiritual.
                                 </p>
                               </div>
                             </div>
