@@ -104,9 +104,9 @@
                       </div>
                     </div>
 
-                    <div class="g-recaptcha" data-sitekey="6LdqmCAUAAAAAMMNEZvn6g4W5e0or2sZmAVpxVqI"></div>
+                    <div class="g-recaptcha" data-sitekey="6LeIA7EUAAAAAKukxiC7zsaGIrLjGjaWYb8nExrn"></div>
 
-                    <input type="submit" id="subEmail" class="button btn-send" value="Send message">
+                    <input type="submit" id="submit" class="button btn-send" value="Send message">
                   </div>
                 </form>
               </div>
@@ -123,14 +123,18 @@
           $(document).ready(function() {
             console.log('readys')
 
-            $("#subEmail").click(function () {
-              console.log('readyss')
+            $('#contact_form').on('submit', function() {
+              
               var params = {
                 'name' : $('#form_name').val(),
                 'email' :  $('#form_email').val(),
                 'subject' :  $('#form_subject').val(),
                 'message' :  $('#form_message').val(),
               }
+              if(params.name && params.email && params.subject && params.message ){
+                if(grecaptcha.getResponse() == "") {
+                $('.messages').html('<div class="alert alert-danger alert-dismissible"><button type="button" class="close" data-dismiss="alert">&times;</button>Please click on the reCAPTCHA box.</div>');
+              }else{
               console.log(params)
               $.ajax({
               headers: {
@@ -150,6 +154,8 @@
             
         }
 });
+              }
+              }  
 });
 
 });
