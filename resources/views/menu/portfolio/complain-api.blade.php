@@ -12,7 +12,7 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Rest API Complain</h1>
+            <h1>Rest API Com****</h1>
         </div>
 
         <div class="row">
@@ -50,7 +50,7 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> Complain Apps</p></li>
+                        <li><p><i class="fa fa-user"></i> Personal</p></li>
                         <li><p><i class="fa fa-globe"></i> <a href="https://devcomplain.com" target="_blank">https://devcomplain.com</a></p></li>
                         <li><p><i class="fa fa-calendar"></i> November 2018 - February 2019</p></li>
                     </ul>

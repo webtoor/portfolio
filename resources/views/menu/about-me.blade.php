@@ -6,7 +6,11 @@
                     <div class="row">
                       <div class="col-sm-12 col-md-6 col-lg-6">
                           <div class="inner-content">
-                            <div class="fill-block" style="height:110%;"></div>
+                            {{-- <div class="ripples" style="background-image:url('images/bg.jpg'); height:101%;
+                            background-position: center;
+                            background-repeat: no-repeat;
+                            background-size: cover;"></div> --}}
+                            <div class="fill-block"></div>
                           </div>
                       </div>
                       <div class="col-sm-12 col-md-6 col-lg-6">
@@ -32,7 +36,7 @@
                                 Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya, hanya melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga tujuan tercapai.
                               </p>
                             <div class="hp-buttons">
-                              <a href="#" target="_blank" class="btn btn-primary">Download CV</a>
+                              <a href="javascript:void(0)" class="btn btn-primary">Download CV</a>
                             </div>
                           </div>
                         </div>
@@ -67,7 +71,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Crypto Trader </h4>
-                                <p>Hahahaha.. Selalu antusias dalam dunia Cryptocurrency.</p>
+                                <p>Selalu antusias dalam dunia Cryptocurrency.</p>
                               </div>
                             </div>
                             <!-- /Service Item 1 -->
@@ -134,11 +138,11 @@
                       $('.fill-block').ripples({
                         resolution: 512,
                         dropRadius: 20, //px
-                        perturbance: 0.04,
+                        perturbance: 0.04
                       });
                     }
                     catch (e) {
-                      $('.error').show().text(e);
+                     /*  $('.error').show().text(e); */
                     }
                   
                   

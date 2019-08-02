@@ -49,7 +49,7 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i>Complain Apps </p></li>
+                        <li><p><i class="fa fa-user"></i>Com**** Apps </p></li>
                         <li><p><i class="fab fa-google-play"></i> <a href="#">Play Store</a></p></li>
                         <li><p><i class="fa fa-calendar"></i> September 2018</p></li>
                     </ul>

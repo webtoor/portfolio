@@ -148,15 +148,15 @@
             success: function (results) {
               console.log(results);
               if(results['success'] == 'true'){
-                $('.messages').html('<div class="alert alert-success alert-dismissible"><button type="button" class="close" data-dismiss="alert">&times;</button><strong>Terima kasih!</strong><p>Decepatnya segera saya respon</p></div>');
+                $('.messages').html('<div class="alert alert-success alert-dismissible"><button type="button" class="close" data-dismiss="alert">&times;</button><strong>Terima kasih!</strong><p>Secepatnya segera saya respon</p></div>');
                 $('#contact_form')[0].reset();
               }
             
         }
-});
-              }
-              }  
-});
+    });
+    }
+    }  
+    });
 
 });
 </script>
