@@ -4,6 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="Fityan Ali Munshi">
+    <meta name="description" content="Fityan Ali Munshi">
+    <meta name="author" content="Fityan Ali Munshi">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
