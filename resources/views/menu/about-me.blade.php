@@ -32,8 +32,8 @@
                             <h2 class="hp-main-title">Fityan Ali Munshi</h2>
                             <p>
                                 Berawal dari kebetulan yang nampak terencana secara kosmik.
-                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2, menjadi sebagai anak pertama dari dua bersaudara. Tertarik pada dunia Teknologi Informasi khususnya <i>Programming</i>.
-                                Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya, hanya melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga tujuan tercapai.
+                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2, sebagai anak pertama dari 2 bersaudara. Tertarik pada dunia Teknologi Informasi khususnya <i>Programming</i>.
+                                Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya, HANYA melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga TUJUAN tercapai.
                               </p>
                             <div class="hp-buttons">
                               <a href="javascript:void(0)" class="btn btn-primary">Download CV</a>
@@ -70,8 +70,10 @@
                                 <i class="lnr lnr-rocket"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Crypto Trader </h4>
-                                <p>Selalu antusias dalam dunia Cryptocurrency.</p>
+                                <h4>Cryptocurrency Trading </h4>
+                                <p>Pertama kalinya memasuki suatu instrumen Investasi. yaitu Digital Asset, saya termasuk type Long-Term Position Trader. Selain itu, dari sini saya mengenal dan mulai belajar Teknikal Analisis & Fundamental, Pola, Siklus dan Psikologi Trading.
+                                    Apapun yang terjadi, saya disini untuk tinggal.
+                                </p>
                               </div>
                             </div>
                             <!-- /Service Item 1 -->
@@ -82,9 +84,9 @@
                                 <i class="lnr lnr-laptop-phone"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Web & Mobile Development</h4>
+                                <h4>Web & Mobile Apps</h4>
                                 <p>
-                                    Saat ini saya bekerja untuk hal ini. Kegiatan yang saya sukai dan sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe
+                                    Saat ini saya bekerja untuk hal tersebut. Kegiatan yang saya sukai dan sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe.
                                 </p>
                               </div>
                             </div>
@@ -97,15 +99,15 @@
                         <div class="col-inner">
                           <div class="info-list-w-icon">
                             <!-- Service Item 3 -->
-                            {{-- <div class="info-block-w-icon">
+                            <div class="info-block-w-icon">
                               <div class="ci-icon">
-                                <i class="lnr lnr-smartphone"></i>
+                                <i class="lnr lnr-question-circle"></i>
                               </div>
                               <div class="ci-text">
                                 <h4>Mobile Apps</h4>
                                 <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
                               </div>
-                            </div> --}}
+                            </div>
                             <!-- Service Item 3 -->
   
                             <!-- Service Item 4 -->
