@@ -1,4 +1,10 @@
-
+@section('css')
+    <style>
+      .fill-block{
+       background-color: #bdcbd4;
+      }
+    </style>
+@endsection
             <!-- Home Subpage -->
             <section class="pt-page" data-id="about-me">
                 <div class="section-inner start-page-full-width">
@@ -71,7 +77,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Cryptocurrency Trading </h4>
-                                <p>Pertama kalinya memasuki suatu instrumen Investasi. yaitu Digital Asset, saya termasuk type Long-Term Position Trader. Selain itu, dari sini saya mengenal dan mulai belajar Teknikal Analisis & Fundamental, Pola, Siklus dan Psikologi Trading.
+                                <p>Pertama kalinya memasuki suatu instrumen Investasi. yaitu Digital Asset, saya termasuk tipe Long-Term Position Trader. Selain itu, dari sini saya mengenal dan mulai belajar Teknikal Analisis & Fundamental, Pola, Siklus dan Psikologi Trading.
                                     Apapun yang terjadi, saya disini untuk tinggal.
                                 </p>
                               </div>
@@ -98,30 +104,33 @@
                       <div class="col-xs-12 col-sm-6">
                         <div class="col-inner">
                           <div class="info-list-w-icon">
-                            <!-- Service Item 3 -->
-                            <div class="info-block-w-icon">
+                          <!-- Service Item 3 -->
+                          <div class="info-block-w-icon">
                               <div class="ci-icon">
                                 <i class="lnr lnr-question-circle"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Mobile Apps</h4>
-                                <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales odio.</p>
+                                <h4>Experiment</h4>
+                                <p>Bagi saya melakukan percobaan itu menyenangkan. Mungkin bisa dibilang hobi. Mulai dari makanan, minuman, pola hidup, sampai tentang pemikiran, pandangan, keresahan hidup, brainwave, 7 cakra, crystal stone, orgonite, astral-projection dan sebagainya. Kapan-kapan saya share dibagian konten blog web ini.</p>
                               </div>
                             </div>
                             <!-- Service Item 3 -->
-  
-                            <!-- Service Item 4 -->
-                            <div class="info-block-w-icon">
+                          <!-- Service Item 4 -->
+                          <div class="info-block-w-icon">
                               <div class="ci-icon">
                                 <i class="lnr lnr-book"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Learn & Reading</h4>
-                                <p>Saya pikir banyak hal menarik di Dunia ini. Selalu penasaran akan hal tersebut, terlebih soal Alam Semesta, Sains, Psikologi, Filsafat dan Spiritual.
+                                <h4>Reading</h4>
+                                <p>Entah kenapa, saya selalu ingin tahu alasan atau esensi dibalik suatu hal. Seperti, mengapa harus seperti ini? mengapa hal itu dilarang? kenapa saya harus percaya? dsb. Awalnya mengganggu pikiran, sampai akhirnya saya menyukainya.
                                 </p>
                               </div>
                             </div>
                             <!-- Service Item 4 -->
+                            
+                            
+  
+                          
                           </div>
                         </div>
                       </div>
