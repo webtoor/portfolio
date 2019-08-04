@@ -92,7 +92,7 @@
                               <div class="ci-text">
                                 <h4>Web & Mobile Apps</h4>
                                 <p>
-                                    Saat ini saya bekerja untuk hal tersebut. Kegiatan yang saya sukai dan sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe.
+                                    Saat ini saya bekerja untuk hal tersebut. Kegiatan yang sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe.
                                 </p>
                               </div>
                             </div>

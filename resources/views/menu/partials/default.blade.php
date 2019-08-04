@@ -18,8 +18,7 @@
 	<link href="{{ mix('/css/app.css') }}" rel="stylesheet">
 
 	@yield('css')
-    <script src="js/modernizr.custom.js"></script>
-
+  
 </head>
 <body>
 
@@ -77,8 +76,8 @@
       <!-- /Main Content -->
     </div>
     {{-- <script src="{{ mix('/js/app.js') }}"></script> --}}
+    <script src="js/modernizr.custom.js"></script>
 
-    <script data-cfasync="false" src="cdn/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="js/jquery-2.1.3.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
@@ -89,7 +88,7 @@
     <script src="js/masonry.pkgd.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+   
     <script src="js/main.js"></script>
     <script src="js/jquery.ripples.js"></script>
     <script src="preview/lmpixels-demo-panel.js"></script>
