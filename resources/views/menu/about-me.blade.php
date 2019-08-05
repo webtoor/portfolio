@@ -122,7 +122,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Reading</h4>
-                                <p>Entah kenapa, saya selalu ingin tahu alasan atau esensi dibalik suatu hal. Seperti, mengapa harus seperti ini? mengapa hal itu dilarang? kenapa saya harus percaya? dsb. Awalnya mengganggu pikiran, sampai akhirnya saya menyukainya.
+                                <p>Entah kenapa, saya selalu ingin tahu alasan atau esensi dibalik suatu hal. Seperti, mengapa harus seperti ini? mengapa hal itu dilarang? kenapa saya harus percaya? dsb. Awalnya mengganggu, tapi akhirnya membuka pikiran.
                                 </p>
                               </div>
                             </div>

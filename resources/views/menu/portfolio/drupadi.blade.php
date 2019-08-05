@@ -70,7 +70,7 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i> PT.Eidara Matadata Presisi</p></li>
+                        <li><p><i class="fa fa-user"></i><a href="http://www.eidaramata.com/" target="_blank" style="color:#666666">PT. Eidara Matadata Presisi</a></p></li>
                         <li><p><i class="fab fa-google-play"></i> <a href="#">Play Store</a></p></li>
                         <li><p><i class="fa fa-calendar"></i> Juli 2017 - Oktober 2017</p></li>
                     </ul>
