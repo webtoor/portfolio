@@ -143,10 +143,20 @@
                         <div class="skill-percentage skill-8"></div>
                       </div>
                       <!-- /Skill 3 -->
+
+                      <!-- jQuery -->
+                      <div class="clearfix">
+                        <h4>jQuery</h4>
+                        <div class="skill-value">75%</div>
+                      </div>
+                      <div class="skill-container">
+                        <div class="skill-percentage skill-8"></div>
+                      </div>
+                      <!-- jQuery  -->
         
                       <!-- Skill 4 -->
                       <div class="clearfix">
-                        <h4>HTML& CSS [Bootstrap]</h4>
+                        <h4>HTML & CSS [Bootstrap]</h4>
                         <div class="skill-value">85%</div>
                       </div>
                       <div class="skill-container">
