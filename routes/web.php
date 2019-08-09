@@ -35,6 +35,7 @@ Route::get('/view-clear', function() {
 */
 
 Route::get('/', 'HomeController@index');
+Route::get('/download_cv', 'HomeController@downloadCv');
 Route::post('/send-email', 'HomeController@sendEmail');
 
 Route::get('/pis', function () {
