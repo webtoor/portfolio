@@ -42,7 +42,7 @@
                                 Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya, HANYA melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga TUJUAN tercapai.
                               </p>
                             <div class="hp-buttons">
-                              <a href="javascript:void(0)" class="btn btn-primary">Download CV</a>
+                              <a href="/download_cv" class="btn btn-primary">Download CV</a>
                             </div>
                           </div>
                         </div>
