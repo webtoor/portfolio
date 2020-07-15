@@ -25,7 +25,7 @@
                             <!-- Text rotation / Subtitle -->
                             <div class="owl-carousel text-rotation">  
                             <div class="item">
-                                <div class="sp-subtitle">Backend-Programmer</div>
+                                <div class="sp-subtitle">Backend-Programmers</div>
                               </div>                                  
                               <div class="item">
                                 <div class="sp-subtitle">Mobile Apps-Programmer</div>
