@@ -21,7 +21,7 @@
     }
     a(function () {
         a('#contact_form').validator(), a('#contact_form').on('submit', function (d) {
-           /*  if (!d.isDefaultPrevented()) {
+          /*   if (!d.isDefaultPrevented()) {
                 return a.ajax({
                     type: 'POST',
                     headers: {

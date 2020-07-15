@@ -12,10 +12,10 @@
                     <div class="row">
                       <div class="col-sm-12 col-md-6 col-lg-6">
                           <div class="inner-content">
-                            {{-- <div class="ripples" style="background-image:url('images/bg.jpg'); height:101%;
+                          <!--   <div class="ripples" style="background-image:url('images/bg.jpg'); height:101%;
                             background-position: center;
                             background-repeat: no-repeat;
-                            background-size: cover;"></div> --}}
+                            background-size: cover;"></div>  -->
                             <div class="fill-block"></div>
                           </div>
                       </div>
@@ -25,24 +25,24 @@
                             <!-- Text rotation / Subtitle -->
                             <div class="owl-carousel text-rotation">  
                             <div class="item">
-                                <div class="sp-subtitle">Backend-Programmers</div>
+                                <div class="sp-subtitle">Backend-Developer</div>
                               </div>                                  
                               <div class="item">
-                                <div class="sp-subtitle">Mobile Apps-Programmer</div>
+                                <div class="sp-subtitle">Mobile Apps-Developer</div>
                               </div>
                               <div class="item">
-                                <div class="sp-subtitle">WebApps-Programmer</div>
+                                <div class="sp-subtitle">WebApps-Developer</div>
                               </div>
                             </div>
                             <!-- /Text rotation / Subtitle -->
-                            <h2 class="hp-main-title">Fityan Ali Munshi</h2>
+                            <h2 class="hp-main-title">Hello World !!</h2>
                             <p>
                                 Berawal dari kebetulan yang nampak terencana secara kosmik.
-                                Singkat cerita, saya lahir pada bulan Agustus 1993 tanggal 2, sebagai anak pertama dari 2 bersaudara. Tertarik pada dunia Teknologi Informasi khususnya <i>Programming</i>.
-                                Saya senang mencari cara-cara baru untuk melakukan sesuatu supaya lebih efektif & efisien. Prinsip saya, HANYA melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga TUJUAN tercapai.
+                                Singkat cerita, saya diberi kesempatan untuk tinggal di Bumi. Tertarik pada dunia Teknologi Informasi khususnya Programming.
+                                Saya senang mencari metode dan pendekatan baru untuk melakukan sesuatu untuk meningkatkan efektifitas & efisiensi. Prinsip saya, HANYA melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga TUJUAN tercapai.
                               </p>
                             <div class="hp-buttons">
-                              <a href="/download_cv" class="btn btn-primary">Download CV</a>
+                              <a href="#" class="btn btn-primary">Download CV</a>
                             </div>
                           </div>
                         </div>
@@ -77,8 +77,8 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Cryptocurrency Trading </h4>
-                                <p>Pertama kalinya memasuki suatu instrumen Investasi. yaitu Digital Asset, saya termasuk tipe Long-Term Position Trader. Selain itu, dari sini saya mengenal dan mulai belajar Teknikal Analisis & Fundamental, Pola, Siklus dan Psikologi Trading.
-                                    Apapun yang terjadi, saya disini untuk tinggal.
+                                <p>Pertama kalinya memasuki suatu instrumen Investasi. yaitu Digital Asset, termasuk tipe Long-Term Position Trader. Selain itu, dari sini saya mengenal dan mulai belajar Teknikal Analisis & Fundamental, Pola, Siklus dan Psikologi.
+                                    Apapun yang terjadi, saya disini untuk tinggal!!.
                                 </p>
                               </div>
                             </div>
@@ -90,9 +90,9 @@
                                 <i class="lnr lnr-laptop-phone"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Web & Mobile Apps</h4>
+                                <h4>Software Development</h4>
                                 <p>
-                                    Saat ini saya bekerja untuk hal tersebut. Kegiatan yang sehari-hari saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain, yah minimal kontribusi sedikitlah hehehe.
+                                    Saat ini saya bekerja secara <b>professional</b> untuk aktivitas tersebut. Kegiatan sehari-hari yang saya lakukan. Dengan hal ini saya berharap untuk bisa membantu sekaligus bermanfaat untuk orang lain.
                                 </p>
                               </div>
                             </div>
@@ -111,7 +111,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Experiment</h4>
-                                <p>Bagi saya melakukan percobaan itu menyenangkan. Mungkin bisa dibilang hobi. Mulai dari makanan, minuman, pola hidup, sampai tentang pemikiran, pandangan, keresahan hidup, brainwave, 7 cakra, crystal stone, orgonite, astral-projection dan sebagainya. Kapan-kapan saya share dibagian konten blog web ini.</p>
+                                <p>Bagi saya melakukan percobaan itu menyenangkan. Mungkin bisa dibilang hobi. Mulai dari makanan, pola hidup, pemikiran, brainwave, 7 cakra, orgonite dan sebagainya. Akhir2 ini sedang experiment pertanian hidroponik yang dilengkapi dengan Teknologi IoT .</p>
                               </div>
                             </div>
                             <!-- Service Item 3 -->
@@ -122,7 +122,7 @@
                               </div>
                               <div class="ci-text">
                                 <h4>Reading</h4>
-                                <p>Entah kenapa, saya selalu ingin tahu alasan atau esensi dibalik suatu hal. Seperti, mengapa harus seperti ini? mengapa hal itu dilarang? kenapa saya harus percaya? dsb. Awalnya mengganggu, tapi akhirnya membuka pikiran.
+                                <p>Entah kenapa, saya selalu ingin tahu alasan atau esensi dibalik suatu hal. Seperti, mengapa harus seperti itu? mengapa hal itu terjadi? mengapa saya harus percaya? dsb. 
                                 </p>
                               </div>
                             </div>

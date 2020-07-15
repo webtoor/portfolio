@@ -53,8 +53,9 @@
               <div class="col-xs-12 col-sm-3">
                 <div class="col-inner bs-30">
                   <div class="lm-info-block gray-default">
-                    <i class="lnr lnr-checkmark-circle"></i>
-                    <h4>Freelance Available</h4>
+                    <i class="lnr lnr-checkmark-circle" style="font-size:32px;"></i>
+                    <h5>Freelance Available</h5>
+                    <p style="font-size:13px; margin-top:-14px;"><b>Start form $10/hour and $1000/project</b></p>
                     <span class="lm-info-block-value"></span>
                     <span class="lm-info-block-text"></span>
                   </div>

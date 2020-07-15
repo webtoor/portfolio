@@ -9,14 +9,14 @@ class HomeController extends Controller
     public function index(){
         return view('menu.index');
     }
-
+    
     public function downloadCv(){
         $file = public_path(). "/downloads/Cv_FityanAliMunshi.pdf";
 
         $headers = array(
                   'Content-Type: application/pdf',
                 );
-        return Response::download($file, 'Cv_FityanAliMunshi.pdf', $headers);
+        return response()->download($file, 'Cv_FityanAliMunshi.pdf', $headers);
     }
     public function sendEmail(Request $request){
         $data = $request->all();

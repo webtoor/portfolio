@@ -42,7 +42,7 @@
       <!-- / Social Links -->
       
       <!-- Copyrights -->
-      <div class="copyrights">© 2019 All rights reserved.</div>
+      <div class="copyrights">© 2019-2020 All rights reserved.</div>
       <!-- / Copyrights -->
     </div>
   </header>
