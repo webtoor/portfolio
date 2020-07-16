@@ -26,6 +26,10 @@ Route::get('/download_cv', 'HomeController@downloadCv');
 Route::post('/send-email', 'HomeController@sendEmail');
 
 
+Route::get('/walhi-db', function () {
+    return view('menu.portfolio.walhi-db');
+});
+
 Route::get('/walhi-backend', function () {
     return view('menu.portfolio.walhi-backend');
 });

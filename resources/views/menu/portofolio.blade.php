@@ -30,12 +30,38 @@
                                   <a class="filter btn btn-sm btn-link" data-group="category_front-end">Front-end</a>
                                 </li>
                                 <li>
-                                  <a class="filter btn btn-sm btn-link" data-group="category_database">Database</a>
+                                  <a class="filter btn btn-sm btn-link" data-group="category_database">Database-design</a>
                                 </li>
                               </ul>
       
                               <!-- Portfolio Grid -->
                               <div class="portfolio-grid three-columns">
+
+                              <!-- BPN MOBILE -->
+                            <figure class="item standard" data-groups='["category_all", "category_database"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/bpn/mobile/1.png" alt="Media Project 1" title="" />
+                                <a href="/bpn-mobile" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Pantau Lingkungan (WALHI)</h4>
+                              <span class="category">Database Design</span>
+                              </figure>
+                              <!-- BPN MOBILE -->
+
+                            <!-- WALHI DB DESIGN -->
+                            <figure class="item standard" data-groups='["category_all", "category_database"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/walhi/walhi-db-100.png" alt="Media Project 1" title="" />
+                                <a href="/walhi-db" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Pantau Lingkungan (WALHI)</h4>
+                              <span class="category">Database Design</span>
+                              </figure>
+                              <!-- WALHI DB DESIGN -->
 
                               <!-- WALHI BACKEND -->
                               <figure class="item standard" data-groups='["category_all", "category_backend"]'>
