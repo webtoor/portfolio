@@ -33,7 +33,7 @@
                     <h3>Experience</h3> <a style="font-size:15px;"><sup>Detail in portfolio</sup></a>
                   </div>
                   
-                  <div class="timeline timeline-second-style clearfix">
+                  <!-- <div class="timeline timeline-second-style clearfix">
                 <div class="timeline-item clearfix">
                   <div class="left-part">
                     <h5 class="item-period">Jan 2020 - Now</h5>
@@ -45,7 +45,7 @@
                     <p>Membuat Progressive-web-app (PWA) & Web-service & Database-design untuk proyek pribadi yang bisa digunakan juga oleh orang lain</p>
                   </div>
                 </div>
-              </div>
+              </div> -->
 
 
               <div class="timeline timeline-second-style clearfix">
@@ -99,7 +99,7 @@
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
-                        <h4 class="item-title">Full Stack Developer [Full Remote & Part Time from mid 2018]</h4>
+                        <h4 class="item-title">Full Stack Developer [Full Remote from mid 2018 & Part Time from early 2019]</h4>
                         <p>Membuat Rest-API,
                        Menampilkan peta dan memodifikasinya menggunakan Google Maps API,
                        Membuat Backend/Website menggunakan Laravel & Lumen,

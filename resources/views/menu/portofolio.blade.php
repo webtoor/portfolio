@@ -89,6 +89,19 @@
                               </figure>
                               <!-- BPN DB DESIGN -->
 
+                                <!-- KEMITRAAN WEB -->
+                                <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/bpn/web-admin/100.png" alt="Media Project 1" title="" />
+                                <a href="/kemitraan-web" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Kemitraan Ecommerce - Web based</h4>
+                              <span class="category">Web Apps</span>
+                              </figure>
+                              <!-- KEMITRAAN WEB -->
+
                               <!-- KEMITRAAN DB DESIGN -->
                               <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
@@ -182,18 +195,18 @@
                                 <!-- HIBER API -->
 
       
+                                <!-- PIS -->
+                                <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
+                                  <div class="portfolio-item-img">
+                                    <img src="images/portfolio/pis/100.png" alt="Pilates Information System" title="" />
+                                    <a href="/pis" class="ajax-page-load"></a>
+                                  </div>
+      
+                                  <i class="far fa-file-alt"></i>
+                                  <h4 class="name">Pilates Information System</h4>
+                                  <span class="category">Web Application</span>
+                                </figure>
                                   <!-- PIS -->
-                                  <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
-                                    <div class="portfolio-item-img">
-                                      <img src="images/portfolio/pis/100.png" alt="Pilates Information System" title="" />
-                                      <a href="/pis" class="ajax-page-load"></a>
-                                    </div>
-        
-                                    <i class="far fa-file-alt"></i>
-                                    <h4 class="name">Pilates Information System</h4>
-                                    <span class="category">Web Application</span>
-                                  </figure>
-                                    <!-- PIS -->
 
                                       <!-- DRUPADI -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>

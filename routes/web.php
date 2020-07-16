@@ -46,6 +46,10 @@ Route::get('/kemitraan-db', function () {
     return view('menu.portfolio.kemitraan-db');
 });
 
+Route::get('/kemitraan-web', function () {
+    return view('menu.portfolio.kemitraan-web');
+});
+
 Route::get('/walhi-db', function () {
     return view('menu.portfolio.walhi-db');
 });
