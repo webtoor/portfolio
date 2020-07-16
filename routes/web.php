@@ -26,6 +26,10 @@ Route::get('/download_cv', 'HomeController@downloadCv');
 Route::post('/send-email', 'HomeController@sendEmail');
 
 
+Route::get('/bpn-mobile', function () {
+    return view('menu.portfolio.bpn-mobile');
+});
+
 Route::get('/walhi-db', function () {
     return view('menu.portfolio.walhi-db');
 });

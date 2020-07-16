@@ -57,7 +57,7 @@
                   <div class="divider"></div>
                   <div class="right-part">
                     <h4 class="item-title">Software Developer [Freelance]</h4>
-                    <p>Membuat Aplikasi Mobile & Web-service & Database-design & Admin-panel. Layanan Laporan Pendaftaran Tanah Sistematis Lengkap (PTSL) untuk ASN dan Pihak ketiga/Perusahaan/Konsultan</p>
+                    <p>Membuat Aplikasi Mobile & Web-service & Database-design & Admin-panel. Layanan Laporan Pendaftaran Tanah Sistematis Lengkap (PTSL) 2020 untuk ASN dan Pihak ketiga/Perusahaan/Konsultan</p>
                   </div>
                 </div>
               </div>
