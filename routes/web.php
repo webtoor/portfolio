@@ -26,10 +26,14 @@ Route::get('/download_cv', 'HomeController@downloadCv');
 Route::post('/send-email', 'HomeController@sendEmail');
 
 
+Route::get('/bpn-backend', function () {
+    return view('menu.portfolio.bpn-backend');
+});
 
 Route::get('/bpn-db', function () {
     return view('menu.portfolio.bpn-db');
 });
+
 Route::get('/bpn-admin', function () {
     return view('menu.portfolio.bpn-admin');
 });

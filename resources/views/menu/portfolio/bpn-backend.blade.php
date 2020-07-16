@@ -3,8 +3,8 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/petakwedding"><i class="lnr lnr-chevron-left"></i></a>
-                <a class="ajax-page-load" href="/complain-api"><i class="lnr lnr-chevron-right"></i></a>
+                <a class="ajax-page-load" href="/db_complain"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/hiber-mobile"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
@@ -12,19 +12,20 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>BPN Input PTSL 2020-Database Design</h1>
+            <h1>BPN Input PSTL 2020-Backend</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/walhi/walhi-db.png" alt="" />
+                        <img src="images/portfolio/bpn/backend/1.png" alt="" />
                     </div>
                 </div>
 
              
 
+            
                 <script type="text/javascript">
                     jQuery(document).ready(function($){
 
@@ -53,7 +54,7 @@
                             <li><p><i class="fa fa-calendar"></i>January - March 2020</p></li>
                     </ul>
 
-                    <p>Database design untuk aplikasi BPN Input PTSL 2020</p>
+                    <p>Web-service untuk BPN Input PSTL 2020-Mobile</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
@@ -62,7 +63,8 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>Sql</a></li>
+                            <li><a>Lumen Framework</a></li>
+                            <li><a>Oauth2</a></li>
                             <li><a>Mysql</a></li>
                         </ul>
                     </div>
