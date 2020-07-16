@@ -25,9 +25,15 @@ Route::get('/', 'HomeController@index');
 Route::get('/download_cv', 'HomeController@downloadCv');
 Route::post('/send-email', 'HomeController@sendEmail');
 
+
+Route::get('/walhi-mobile', function () {
+    return view('menu.portfolio.walhi-mobile');
+});
+
 Route::get('/pis', function () {
     return view('menu.portfolio.pis');
 });
+
 Route::get('/hiber-mobile', function () {
     return view('menu.portfolio.hiber-mobile');
 });
