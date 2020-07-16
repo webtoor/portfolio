@@ -50,6 +50,19 @@
                               </figure>
                               <!-- BPN MOBILE -->
 
+                                <!-- BPN MOBILE -->
+                            <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/bpn/web-admin/100.png" alt="Media Project 1" title="" />
+                                <a href="/bpn-admin" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">BPN Input PTSL 2020-Admin</h4>
+                              <span class="category">Web Apps</span>
+                              </figure>
+                              <!-- BPN MOBILE -->
+
                             <!-- WALHI DB DESIGN -->
                             <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
@@ -132,7 +145,7 @@
 
       
                                   <!-- PIS -->
-                                  <figure class="item standard" data-groups='["category_all", "category_web"]'>
+                                  <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                                     <div class="portfolio-item-img">
                                       <img src="images/portfolio/pis/100.png" alt="Pilates Information System" title="" />
                                       <a href="/pis" class="ajax-page-load"></a>
