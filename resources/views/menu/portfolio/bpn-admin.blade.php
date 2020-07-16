@@ -64,7 +64,6 @@
                         </div>
                         <ul class="project-general-info">
                             <li><p><i class="fa fa-user"></i><a href="https://kot-bandung.atrbpn.go.id" target=”_blank” style="color:#666666">ATR/BPN Kantah Kota Bandung</a></p></li>
-                            <li><p><i class="fab fa-google-play"></i> <a href="https://play.google.com/store/apps/details?id=com.input.ptsl" target="_blank">Play Store</a></p></li>
                             <li><p><i class="fa fa-calendar"></i>January - March 2020</p></li>
                         </ul>
     

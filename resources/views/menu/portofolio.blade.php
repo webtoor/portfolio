@@ -63,6 +63,19 @@
                               </figure>
                               <!-- BPN MOBILE -->
 
+                                  <!-- BPN DB DESIGN -->
+                            <figure class="item standard" data-groups='["category_all", "category_database"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/bpn/bpn-db-100.png" alt="Media Project 1" title="" />
+                                <a href="/bpn-db" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">BPN Input PTSL 2020-Database Design</h4>
+                              <span class="category">Database Design</span>
+                              </figure>
+                              <!-- BPN DB DESIGN -->
+
                             <!-- WALHI DB DESIGN -->
                             <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
