@@ -50,7 +50,7 @@
                               </figure>
                               <!-- BPN MOBILE -->
 
-                                <!-- BPN MOBILE -->
+                                <!-- BPN ADMIN -->
                             <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                               <div class="portfolio-item-img">
                                 <img src="images/portfolio/bpn/web-admin/100.png" alt="Media Project 1" title="" />
@@ -61,7 +61,7 @@
                               <h4 class="name">BPN Input PTSL 2020-Admin</h4>
                               <span class="category">Web Apps</span>
                               </figure>
-                              <!-- BPN MOBILE -->
+                              <!-- BPN ADMIN -->
 
                               <!-- BPN BACKEND -->
                               <figure class="item standard" data-groups='["category_all", "category_backend"]'>
@@ -89,7 +89,18 @@
                               </figure>
                               <!-- BPN DB DESIGN -->
 
-
+                              <!-- KEMITRAAN DB DESIGN -->
+                              <figure class="item standard" data-groups='["category_all", "category_database"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/kemitraan/kemitraan-db-100.png" alt="Media Project 1" title="" />
+                                <a href="/kemitraan-db" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Kemitraan-Database Design</h4>
+                              <span class="category">Database Design</span>
+                              </figure>
+                              <!-- KEMITRAAN DB DESIGN -->
 
                               <!-- WALHI MOBILE -->
                               <figure class="item standard" data-groups='["category_all", "category_mobile"]'>

@@ -42,6 +42,10 @@ Route::get('/bpn-mobile', function () {
     return view('menu.portfolio.bpn-mobile');
 });
 
+Route::get('/kemitraan-db', function () {
+    return view('menu.portfolio.kemitraan-db');
+});
+
 Route::get('/walhi-db', function () {
     return view('menu.portfolio.walhi-db');
 });
