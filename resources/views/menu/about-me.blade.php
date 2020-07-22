@@ -38,7 +38,7 @@
                             <h2 class="hp-main-title">Hello World !!</h2>
                             <p>
                                 Berawal dari kebetulan yang nampak terencana secara kosmik.
-                                Singkat cerita, saya diberi kesempatan untuk tinggal di Bumi menggunakan kendaraan sebagai manusia. Tertarik pada dunia Teknologi Informasi khususnya Programming.
+                                Singkat cerita, saya diberi kesempatan untuk tinggal di Bumi, makhluk spiritual dalam tubuh manusia. Tertarik pada dunia Teknologi Informasi khususnya Programming.
                                 Saya senang mencari metode dan pendekatan baru untuk melakukan sesuatu untuk meningkatkan efektifitas & efisiensi. Prinsip saya, HANYA melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga TUJUAN tercapai.
                               </p>
                             <div class="hp-buttons">

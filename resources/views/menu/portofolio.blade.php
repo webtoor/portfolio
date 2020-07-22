@@ -40,10 +40,24 @@
                               <!-- Portfolio Grid -->
                               <div class="portfolio-grid three-columns">
 
-                              <!-- VUENIC DB DESIGN -->
+                            
+                                 <!-- VUENIC BACKEND -->
+                            <figure class="item standard" data-groups='["category_all", "category_pwa", "category_web"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/bpn/mobile/1.png" alt="Vuenic PWA" title="" />
+                                <a href="/vuenic-pwa" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Vuenic PWA</h4>
+                              <span class="category">PWA</span>
+                              </figure>
+                              <!-- VUENIC BACKEND -->
+
+                              <!-- VUENIC BACKEND -->
                             <figure class="item standard" data-groups='["category_all", "category_backend"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/vuenic/backend/100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/vuenic/backend/100.png" alt="Vuenic Rest API" title="" />
                                 <a href="/vuenic-backend" class="ajax-page-load"></a>
                               </div>
   
@@ -51,12 +65,12 @@
                               <h4 class="name">Vuenic Backend</h4>
                               <span class="category">Backend</span>
                               </figure>
-                              <!-- VUENIC DB DESIGN -->
+                              <!-- VUENIC BACKEND -->
 
                               <!-- VUENIC DB DESIGN -->
                             <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/vuenic/vuenic-db-100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/vuenic/vuenic-db-100.png" alt="Vuenic Database Design" title="" />
                                 <a href="/vuenic-db" class="ajax-page-load"></a>
                               </div>
   
@@ -69,7 +83,7 @@
                               <!-- BPN MOBILE -->
                             <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/bpn/mobile/1.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/bpn/mobile/1.png" alt="BPN Mobile Apps" title="" />
                                 <a href="/bpn-mobile" class="ajax-page-load"></a>
                               </div>
   
@@ -82,7 +96,7 @@
                                 <!-- BPN ADMIN -->
                             <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/bpn/web-admin/100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/bpn/web-admin/100.png" alt="BPN Web Admin" title="" />
                                 <a href="/bpn-admin" class="ajax-page-load"></a>
                               </div>
   
@@ -95,7 +109,7 @@
                               <!-- BPN BACKEND -->
                               <figure class="item standard" data-groups='["category_all", "category_backend"]'>
                             <div class="portfolio-item-img">
-                              <img src="images/portfolio/bpn/backend/100.png" alt="Media Project 1" title="" />
+                              <img src="images/portfolio/bpn/backend/100.png" alt="BPN Rest API" title="" />
                               <a href="/bpn-backend" class="ajax-page-load"></a>
                             </div>
 
@@ -108,7 +122,7 @@
                                   <!-- BPN DB DESIGN -->
                             <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/bpn/bpn-db-100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/bpn/bpn-db-100.png" alt="BPN Database Design" title="" />
                                 <a href="/bpn-db" class="ajax-page-load"></a>
                               </div>
   
@@ -121,7 +135,7 @@
                                 <!-- KEMITRAAN WEB -->
                                 <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/kemitraan/web/100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/kemitraan/web/100.png" alt="Kemitraan WebApps" title="" />
                                 <a href="/kemitraan-web" class="ajax-page-load"></a>
                               </div>
   
@@ -134,7 +148,7 @@
                               <!-- KEMITRAAN DB DESIGN -->
                               <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/kemitraan/kemitraan-db-100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/kemitraan/kemitraan-db-100.png" alt="Database Design Kemitraan" title="" />
                                 <a href="/kemitraan-db" class="ajax-page-load"></a>
                               </div>
   
@@ -147,7 +161,7 @@
                               <!-- WALHI MOBILE -->
                               <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                 <div class="portfolio-item-img">
-                                  <img src="images/portfolio/walhi/mobile/1.png" alt="Media Project 1" title="" />
+                                  <img src="images/portfolio/walhi/mobile/1.png" alt="WALHI Mobile APps" title="" />
                                   <a href="/walhi-mobile" class="ajax-page-load"></a>
                                 </div>
 
@@ -160,7 +174,7 @@
                               <!-- WALHI BACKEND -->
                               <figure class="item standard" data-groups='["category_all", "category_backend"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/walhi/backend/100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/walhi/backend/100.png" alt="Rest API WALHI" title="" />
                                 <a href="/walhi-backend" class="ajax-page-load"></a>
                               </div>
   
@@ -173,7 +187,7 @@
                               <!-- WALHI DB DESIGN -->
                               <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/walhi/walhi-db-100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/walhi/walhi-db-100.png" alt="Database Design WALHI" title="" />
                                 <a href="/walhi-db" class="ajax-page-load"></a>
                               </div>
   
@@ -186,7 +200,7 @@
                                 <!-- HIBER CLIENT -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/hiber-client/100.png" alt="Media Project 1" title="" />
+                                    <img src="images/portfolio/hiber-client/100.png" alt="Hiber Client Apps" title="" />
                                     <a href="/hiber-mobile" class="ajax-page-load"></a>
                                   </div>
       
@@ -200,7 +214,7 @@
                                 <!-- HIBER DRONER -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                     <div class="portfolio-item-img">
-                                      <img src="images/portfolio/hiber-droner/100.png" alt="Media Project 1" title="" />
+                                      <img src="images/portfolio/hiber-droner/100.png" alt="Hiber Droner Apps" title="" />
                                       <a href="/hiber-droner" class="ajax-page-load"></a>
                                     </div>
         
@@ -213,7 +227,7 @@
                                      <!-- HIBER API -->
                                 <figure class="item standard" data-groups='["category_all", "category_backend"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/hiber-api/100.png" alt="Media Project 1" title="" />
+                                    <img src="images/portfolio/hiber-api/100.png" alt="Hiber API" title="" />
                                     <a href="/hiber-api" class="ajax-page-load"></a>
                                   </div>
       
@@ -240,7 +254,7 @@
                                       <!-- DRUPADI -->
                                 <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                                   <div class="portfolio-item-img">
-                                    <img src="images/portfolio/drupadi/100.png" alt="Media Project 1" title="" />
+                                    <img src="images/portfolio/drupadi/100.png" alt="Drupadi" title="" />
                                     <a href="/drupadi" class="ajax-page-load"></a>
                                   </div>
       
@@ -253,7 +267,7 @@
                                   <!-- WEDDING PETAK -->
                                   <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                                     <div class="portfolio-item-img">
-                                      <img src="images/portfolio/petak-wedding/100.png" alt="Pilates Information System" title="" />
+                                      <img src="images/portfolio/petak-wedding/100.png" alt="Wedding Petak" title="" />
                                       <a href="/petakwedding" class="ajax-page-load"></a>
                                     </div>
         
@@ -266,7 +280,7 @@
                               <!-- DB_COMPLAIN -->
                               <figure class="item standard" data-groups='["category_all", "category_database"]'>
                                 <div class="portfolio-item-img">
-                                  <img src="images/portfolio/database/100.png" alt="Pilates Information System" title="" />
+                                  <img src="images/portfolio/database/100.png" alt="Database Design Complain Apps" title="" />
                                   <a href="/db_complain" class="ajax-page-load"></a>
                                 </div>
     
@@ -276,10 +290,10 @@
                               </figure>
                                 <!-- DB_COMPLAIN -->
 
-                                           <!-- DB_COMPLAIN -->
+                                <!-- COMPLAIN BACKEND -->
                                <figure class="item standard" data-groups='["category_all", "category_backend"]'>
                                 <div class="portfolio-item-img">
-                                  <img src="images/portfolio/complain-api/100.png" alt="Pilates Information System" title="" />
+                                  <img src="images/portfolio/complain-api/100.png" alt="Rest API Complain" title="" />
                                   <a href="/complain-api" class="ajax-page-load"></a>
                                 </div>
     
@@ -287,7 +301,7 @@
                                 <h4 class="name">Rest API Com**** Apps</h4>
                                 <span class="category">Backend</span>
                               </figure>
-                                <!-- DB_COMPLAIN -->
+                                <!-- COMPLAIN BACKEND -->
                               </div>
 
                     

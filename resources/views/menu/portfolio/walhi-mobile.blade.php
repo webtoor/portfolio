@@ -72,7 +72,8 @@
                                 <h3>Technology</h3>
                             </div>
                             <ul class="tags">
-                                <li><a>Ionic Framework v4</a></li>
+                                <li><a>Angular</a></li>
+                                <li><a>Ionic Framework v.4.x</a></li>
                             </ul>
                         </div>
                         <!-- /Technology -->
