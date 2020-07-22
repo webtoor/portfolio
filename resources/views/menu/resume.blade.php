@@ -18,7 +18,7 @@
                     <div class="timeline-item clearfix">
                       <div class="left-part">
                         <h5 class="item-period">2011 - 2017</h5>
-                        <span class="item-company">Universitas Komputer Indonesia</span>
+                        <span class="item-company"><a href="https://www.unikom.ac.id" target=”_blank” style="color:#C1C1C1">Universitas Komputer Indonesia</a></span>
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
@@ -42,7 +42,7 @@
                   <div class="divider"></div>
                   <div class="right-part">
                     <h4 class="item-title">Software Developer</h4>
-                    <p>Membuat Progressive-web-app (PWA) & Web-service & Database-design & IoT Technology untuk proyek pribadi yang bisa digunakan juga oleh orang lain</p>
+                    <p>Membuat Progressive-web-app (PWA) & Web-service & Database-design & IoT Integration untuk proyek pribadi yang bisa digunakan juga oleh orang lain</p>
                   </div>
                 </div>
               </div> 
@@ -106,7 +106,7 @@
                         Membuat aplikasi mobile menggunakan Ionic Framework,
                        Push Notification,
                        Database menggunakan Mysql,
-                       Front-end menggunakan Angular 7 </p>
+                       Front-end menggunakan Angular</p>
                       </div>
                     </div>
                   </div>
@@ -178,7 +178,7 @@
                   <div class="skills-info skills-second-style">
                     <!-- Skill 1 -->
                     <div class="clearfix">
-                      <h4>PHP [Laravel & Lumen Framework]</h4>
+                      <h4>PHP [Laravel & Lumen Framework from v.5.x]</h4>
                       <div class="skill-value">85%</div>
                     </div>
                     <div class="skill-container">
@@ -198,10 +198,10 @@
 
                     <div class="clearfix">
                     <h4>GO [Gin Framework]</h4>
-                    <div class="skill-value">60%</div>
+                    <div class="skill-value">70%</div>
                     </div>
                     <div class="skill-container">
-                      <div class="skill-percentage skill-7"></div>
+                      <div class="skill-percentage skill-6"></div>
                     </div>
       
       
@@ -212,7 +212,7 @@
 
                        <!-- Skill 3 -->
                        <div class="clearfix">
-                        <h4>Javascript & TypeScript [Angular from v2][PWA]</h4>
+                        <h4>Javascript & TypeScript [Angular from v.2.x][PWA]</h4>
                         <div class="skill-value">75%</div>
                       </div>
                       <div class="skill-container">
@@ -266,7 +266,7 @@
 
                     <!-- Skill 2 -->
                     <div class="clearfix">
-                      <h4>Ionic Framework [from v3]</h4>
+                      <h4>Ionic Framework [from v.3.x]</h4>
                       <div class="skill-value">85%</div>
                     </div>
                     <div class="skill-container">
@@ -319,7 +319,7 @@
 
                 <!-- Skill 2 -->
                 <div class="clearfix">
-                  <h4>Google Cloud : GCE</h4>
+                  <h4>Google Cloud Platform : Google Compute Engine</h4>
                   <div class="skill-value">60%</div>
                 </div>
                 <div class="skill-container">
@@ -328,7 +328,7 @@
 
                 <!-- Skill 2 -->
                 <div class="clearfix">
-                  <h4>Firebase : FCM, Hosting</h4>
+                  <h4>Firebase : Firebase Cloud Message, Firebase Hosting</h4>
                   <div class="skill-value">85%</div>
                 </div>
                 <div class="skill-container">

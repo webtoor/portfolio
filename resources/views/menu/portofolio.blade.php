@@ -21,6 +21,9 @@
                                   <a class="filter btn btn-sm btn-link" data-group="category_web">Web</a>
                                 </li>
                                 <li>
+                                  <a class="filter btn btn-sm btn-link" data-group="category_pwa">PWA</a>
+                                </li>
+                                <li>
                                   <a class="filter btn btn-sm btn-link" data-group="category_mobile">Mobile</a>
                                 </li>
                                 <li>
@@ -36,6 +39,19 @@
       
                               <!-- Portfolio Grid -->
                               <div class="portfolio-grid three-columns">
+
+                              <!-- VUENIC DB DESIGN -->
+                            <figure class="item standard" data-groups='["category_all", "category_database"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/vuenic/vuenic-db-100.png" alt="Media Project 1" title="" />
+                                <a href="/vuenic-db" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Vuenic Database Design</h4>
+                              <span class="category">Database Design</span>
+                              </figure>
+                              <!-- VUENIC DB DESIGN -->
 
                               <!-- BPN MOBILE -->
                             <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
