@@ -41,6 +41,19 @@
                               <div class="portfolio-grid three-columns">
 
                               <!-- VUENIC DB DESIGN -->
+                            <figure class="item standard" data-groups='["category_all", "category_backend"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/vuenic/backend/100.png" alt="Media Project 1" title="" />
+                                <a href="/vuenic-backend" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Vuenic Backend</h4>
+                              <span class="category">Backend</span>
+                              </figure>
+                              <!-- VUENIC DB DESIGN -->
+
+                              <!-- VUENIC DB DESIGN -->
                             <figure class="item standard" data-groups='["category_all", "category_database"]'>
                               <div class="portfolio-item-img">
                                 <img src="images/portfolio/vuenic/vuenic-db-100.png" alt="Media Project 1" title="" />

@@ -26,6 +26,10 @@ Route::get('/download_cv', 'HomeController@downloadCv');
 Route::post('/send-email', 'HomeController@sendEmail');
 
 
+Route::get('/vuenic-backend', function () {
+    return view('menu.portfolio.vuenic-backend');
+});
+
 
 Route::get('/vuenic-db', function () {
     return view('menu.portfolio.vuenic-db');

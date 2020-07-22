@@ -3,8 +3,8 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/petakwedding"><i class="lnr lnr-chevron-left"></i></a>
-                <a class="ajax-page-load" href="/complain-api"><i class="lnr lnr-chevron-right"></i></a>
+                <a class="ajax-page-load" href="/db_complain"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/hiber-mobile"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
@@ -12,19 +12,20 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Vuenic-Database Design</h1>
+            <h1>Vuenic-Backend</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/vuenic/vuenic-db-100.png" alt="" />
+                        <img src="images/portfolio/vuenic/backend/1.png" alt="" />
                     </div>
                 </div>
 
              
 
+            
                 <script type="text/javascript">
                     jQuery(document).ready(function($){
 
@@ -49,11 +50,11 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                            <li><p><i class="fa fa-user"></i><a href="https://vuenic.com" target=”_blank” style="color:#666666">Vuenic Service</a></p></li>
-                            <li><p><i class="fa fa-calendar"></i>January 2020 - Now</p></li>
+                        <li><p><i class="fa fa-user"></i><a href="https://vuenic.com" target=”_blank” style="color:#666666">Vuenic Service</a></p></li>
+                        <li><p><i class="fa fa-calendar"></i>January 2020 - Now</p></li>
                     </ul>
 
-                    <p>Database design untuk vuenic service</p>
+                    <p>Web-service untuk vuenic-pwa</p>
                     <!-- /Project Description -->
 
                     <!-- Technology -->
@@ -62,8 +63,10 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>Sql</a></li>
-                            <li><a>MySQL</a></li>
+                            <li><a>GoLang</a></li>
+                            <li><a>Gin Framework</a></li>
+                            <li><a>JWT</a></li>
+                            <li><a>Gorm</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->
