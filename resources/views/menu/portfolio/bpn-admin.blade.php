@@ -76,7 +76,10 @@
                                 <h3>Technology</h3>
                             </div>
                             <ul class="tags">
-                                <li><a>Ionic Framework v4</a></li>
+                                <li><a>Laravel v.6.2</a></li>
+                                <li><a>jQuery</a></li>
+                                <li><a>Boostrap v.4</a></li>
+                                <li><a>MySQL</a></li>
                             </ul>
                         </div>
                         <!-- /Technology -->

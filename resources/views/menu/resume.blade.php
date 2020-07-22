@@ -33,7 +33,7 @@
                     <h3>Experience</h3> <a style="font-size:15px;"><sup>Detail in portfolio</sup></a>
                   </div>
                   
-                  <!-- <div class="timeline timeline-second-style clearfix">
+                  <div class="timeline timeline-second-style clearfix">
                 <div class="timeline-item clearfix">
                   <div class="left-part">
                     <h5 class="item-period">Jan 2020 - Now</h5>
@@ -41,11 +41,11 @@
                   </div>
                   <div class="divider"></div>
                   <div class="right-part">
-                    <h4 class="item-title">Software & IoT Developer</h4>
-                    <p>Membuat Progressive-web-app (PWA) & Web-service & Database-design untuk proyek pribadi yang bisa digunakan juga oleh orang lain</p>
+                    <h4 class="item-title">Software Developer</h4>
+                    <p>Membuat Progressive-web-app (PWA) & Web-service & Database-design & IoT Technology untuk proyek pribadi yang bisa digunakan juga oleh orang lain</p>
                   </div>
                 </div>
-              </div> -->
+              </div> 
 
 
               <div class="timeline timeline-second-style clearfix">
@@ -99,7 +99,7 @@
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
-                        <h4 class="item-title">Full Stack Developer [Full Remote from mid 2018 & Part Time from early 2019]</h4>
+                        <h4 class="item-title">Full Stack Developer [Full Remote from mid 2018][Part Time from early 2019]</h4>
                         <p>Membuat Rest-API,
                        Menampilkan peta dan memodifikasinya menggunakan Google Maps API,
                        Membuat Backend/Website menggunakan Laravel & Lumen,
@@ -112,7 +112,7 @@
                   </div>
       
                   <div class="block-title">
-                    <h3>Certification & Course <span></span></h3>
+                    <h3>Course & Certification<span></span></h3>
                   </div>
       
       
@@ -188,7 +188,7 @@
 
                      <!-- Skill 7 -->
                      <div class="clearfix">
-                      <h4>SQL [ORM]</h4>
+                      <h4>MySQL [ORM]</h4>
                       <div class="skill-value">70%</div>
                     </div>
                     <div class="skill-container">
@@ -292,7 +292,7 @@
 
                 <!-- Skill 2 -->
                 <div class="clearfix">
-                  <h4>IoT Device : ESP32, NodeMCU</h4>
+                  <h4>IoT Device : NodeMCU [esp32 & esp8266]  </h4>
                   <div class="skill-value">60%</div>
                 </div>
                 <div class="skill-container">

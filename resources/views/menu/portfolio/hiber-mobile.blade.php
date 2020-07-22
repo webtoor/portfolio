@@ -76,8 +76,9 @@
                                 <h3>Technology</h3>
                             </div>
                             <ul class="tags">
-                                <li><a>Ionic Framework</a></li>
+                                <li><a>Ionic Framework v.3.x.x</a></li>
                                 <li><a>Google Maps API</a></li>
+                                <li><a>Firebase Cloud Messaging</a></li>
                             </ul>
                         </div>
                         <!-- /Technology -->

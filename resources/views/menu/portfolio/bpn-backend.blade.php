@@ -65,7 +65,7 @@
                         <ul class="tags">
                             <li><a>Lumen Framework</a></li>
                             <li><a>Oauth2</a></li>
-                            <li><a>Mysql</a></li>
+                            <li><a>MySQL</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->

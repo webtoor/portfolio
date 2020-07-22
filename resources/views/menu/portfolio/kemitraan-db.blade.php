@@ -63,7 +63,7 @@
                         </div>
                         <ul class="tags">
                             <li><a>Sql</a></li>
-                            <li><a>Mysql</a></li>
+                            <li><a>MySQL</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->

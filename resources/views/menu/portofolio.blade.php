@@ -92,7 +92,7 @@
                                 <!-- KEMITRAAN WEB -->
                                 <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/bpn/web-admin/100.png" alt="Media Project 1" title="" />
+                                <img src="images/portfolio/kemitraan/web/100.png" alt="Media Project 1" title="" />
                                 <a href="/kemitraan-web" class="ajax-page-load"></a>
                               </div>
   

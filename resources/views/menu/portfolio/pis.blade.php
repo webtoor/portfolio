@@ -81,7 +81,7 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>Laravel Framework</a></li>
+                            <li><a>Laravel Framework v.5.5</a></li>
                             <li><a>Bootstrap Framework</a></li>
                             <li><a>HTML5</a></li>
                             <li><a>CSS</a></li>

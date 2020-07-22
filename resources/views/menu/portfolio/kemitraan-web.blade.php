@@ -100,9 +100,9 @@
                                 <h3>Technology</h3>
                             </div>
                             <ul class="tags">
-                                <li><a>Laravel Framework</a></li>
+                                <li><a>Laravel Framework v6.x.x</a></li>
                                 <li><a>RajaOngkir</a></li>
-                                <li><a>Bootstrap 4</a></li>
+                                <li><a>Bootstrap v.4</a></li>
                                 <li><a>jQuery</a></li>
                             </ul>
                         </div>

@@ -2,7 +2,7 @@
  <header id="site_header" class="header mobile-menu-hide">
     <div class="header-content clearfix">
       <div class="my-photo">
-        <img src="images/photo.jpg" alt="image" style="border-radius: 50%;">
+        <img src="images/photo.jpg" alt="image" {{-- style="border-radius: 50%;" --}}>
       </div>
 
       <div class="site-title-block">

@@ -1,7 +1,7 @@
 @section('css')
     <style>
       .fill-block{
-       background-color: #bdcbd4;
+        background-color: #bdcbd4;
       }
     </style>
 @endsection
@@ -110,8 +110,8 @@
                                 <i class="lnr lnr-question-circle"></i>
                               </div>
                               <div class="ci-text">
-                                <h4>Experiment</h4>
-                                <p>Bagi saya melakukan percobaan itu menyenangkan. Mungkin bisa dibilang hobi. Mulai dari makanan, pola hidup, pemikiran, brainwave, 7 cakra, orgonite dan sebagainya. Akhir2 ini sedang experiment pertanian hidroponik yang dilengkapi dengan Teknologi IoT .</p>
+                                <h4>Learn & Experiment</h4>
+                                <p>Bagi saya melakukan percobaan itu menyenangkan. Mungkin bisa dibilang hobi. Mulai dari makanan, pola hidup, spiritual, pemikiran, brainwave, 7 cakra, orgonite dan sebagainya. Akhir2 ini sedang experiment pertanian hidroponik yang dilengkapi dengan Teknologi IoT .</p>
                               </div>
                             </div>
                             <!-- Service Item 3 -->
