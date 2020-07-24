@@ -92,7 +92,7 @@
                               <div class="ci-text">
                                 <h4>Software Development</h4>
                                 <p>
-                                    Saat ini saya bekerja secara <b>professional</b> untuk aktivitas tersebut. Kegiatan sehari-hari yang saya lakukan. Dengan hal ini saya berharap untuk bisa membantu dan bermanfaat untuk orang lain.
+                                    Saat ini saya bekerja secara <b>professional</b> untuk aktivitas tersebut. Kegiatan sehari-hari yang saya lakukan. Dengan hal ini semoga saya bisa membantu dan bermanfaat untuk orang lain.
                                 </p>
                               </div>
                             </div>

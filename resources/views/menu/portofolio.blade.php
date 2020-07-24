@@ -132,7 +132,20 @@
                               </figure>
                               <!-- BPN DB DESIGN -->
 
-                                <!-- KEMITRAAN WEB -->
+                            <!-- KEMITRAAN DB DESIGN -->
+                            <figure class="item standard" data-groups='["category_all", "category_database"]'>
+                              <div class="portfolio-item-img">
+                                <img src="images/portfolio/kemitraan/kemitraan-db-100.png" alt="Database Design Kemitraan" title="" />
+                                <a href="/kemitraan-db" class="ajax-page-load"></a>
+                              </div>
+  
+                              <i class="far fa-file-alt"></i>
+                              <h4 class="name">Kemitraan-Database Design</h4>
+                              <span class="category">Database Design</span>
+                              </figure>
+                              <!-- KEMITRAAN DB DESIGN -->
+
+                              <!-- KEMITRAAN WEB -->
                                 <figure class="item standard" data-groups='["category_all", "category_web", "category_front-end"]'>
                               <div class="portfolio-item-img">
                                 <img src="images/portfolio/kemitraan/web/100.png" alt="Kemitraan WebApps" title="" />
@@ -144,19 +157,6 @@
                               <span class="category">Web Apps</span>
                               </figure>
                               <!-- KEMITRAAN WEB -->
-
-                              <!-- KEMITRAAN DB DESIGN -->
-                              <figure class="item standard" data-groups='["category_all", "category_database"]'>
-                              <div class="portfolio-item-img">
-                                <img src="images/portfolio/kemitraan/kemitraan-db-100.png" alt="Database Design Kemitraan" title="" />
-                                <a href="/kemitraan-db" class="ajax-page-load"></a>
-                              </div>
-  
-                              <i class="far fa-file-alt"></i>
-                              <h4 class="name">Kemitraan-Database Design</h4>
-                              <span class="category">Database Design</span>
-                              </figure>
-                              <!-- KEMITRAAN DB DESIGN -->
 
                               <!-- WALHI MOBILE -->
                               <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
