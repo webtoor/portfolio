@@ -44,7 +44,7 @@
                                  <!-- VUENIC BACKEND -->
                             <figure class="item standard" data-groups='["category_all", "category_pwa", "category_web"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/bpn/mobile/1.png" alt="Vuenic PWA" title="" />
+                                <img src="images/portfolio/vuenic/pwa/1-min.png" alt="Vuenic PWA" title="" />
                                 <a href="/vuenic-pwa" class="ajax-page-load"></a>
                               </div>
   
