@@ -3,7 +3,7 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/db_complain"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/walhi-db"><i class="lnr lnr-chevron-left"></i></a>
                 <a class="ajax-page-load" href="/hiber-mobile"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">

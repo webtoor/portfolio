@@ -78,7 +78,7 @@
                               <div class="ci-text">
                                 <h4>Cryptocurrency Trading </h4>
                                 <p>Pertama kalinya memasuki suatu instrumen Investasi. yaitu Digital Asset, termasuk tipe Long-Term Position Trader. Selain itu, dari sini saya mengenal dan mulai belajar Teknikal Analisis & Fundamental, Pola, Siklus dan Psikologi.
-                                    Apapun yang terjadi, saya disini untuk tinggal!!.
+                                    Apapun yang terjadi, saya disini untuk tinggal!!. Bersenang-senang...
                                 </p>
                               </div>
                             </div>

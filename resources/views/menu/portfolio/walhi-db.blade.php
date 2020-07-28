@@ -3,8 +3,8 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/petakwedding"><i class="lnr lnr-chevron-left"></i></a>
-                <a class="ajax-page-load" href="/complain-api"><i class="lnr lnr-chevron-right"></i></a>
+                <a class="ajax-page-load" href="/walhi-mobile"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/walhi-backend"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
@@ -12,7 +12,7 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Database Design</h1>
+            <h1>Database Design Walhi</h1>
         </div>
 
         <div class="row">
