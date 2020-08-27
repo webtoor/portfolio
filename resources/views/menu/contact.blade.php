@@ -32,7 +32,7 @@
                 <div class="col-inner bs-30">
                   <div class="lm-info-block gray-default">
                     <i class="lnr lnr-map-marker"></i>
-                    <h4>Jakarta - Bandung</h4>
+                    <h4>Indonesia</h4>
                     <span class="lm-info-block-value"></span>
                     <span class="lm-info-block-text"></span>
                   </div>
@@ -55,7 +55,7 @@
                   <div class="lm-info-block gray-default">
                     <i class="lnr lnr-checkmark-circle" style="font-size:32px;"></i>
                     <h5>Freelance Available</h5>
-                    <p style="font-size:13px; margin-top:-14px;"><b>Start form $15/hour and $1000/project</b></p>
+                    <p style="font-size:11px; margin-top:-10px;"><b>Start form $15/hour and $1000/project</b></p>
                     <span class="lm-info-block-value"></span>
                     <span class="lm-info-block-text"></span>
                   </div>

@@ -3,7 +3,7 @@
         <div class="section-inner custom-page-content">
           <div class="section-title-block second-style">
             <h2 class="section-title">Resume <a style="font-size:13px;"><sup>Last Update in Aug 2020</sup></a></h2>
-            <h5 class="section-description">3+ Years of Experience</h5>
+            <h5 class="section-description">+3 Years of Experience</h5>
           </div>
       
           <div class="section-content">
@@ -56,7 +56,7 @@
                   </div>
                   <div class="divider"></div>
                   <div class="right-part">
-                    <h4 class="item-title">Software Developer [Freelance]</h4>
+                    <h4 class="item-title">Software Developer <a style="font-size: 12px;">[Freelance]</a></h4>
                     <p>Membuat Aplikasi Mobile & Web-service & Database-design & Admin-panel. Layanan Laporan Pendaftaran Tanah Sistematis Lengkap (PTSL) 2020 untuk ASN dan Pihak ketiga/Perusahaan/Konsultan</p>
                   </div>
                 </div>
@@ -70,8 +70,24 @@
                   </div>
                   <div class="divider"></div>
                   <div class="right-part">
-                    <h4 class="item-title">Konsultan - Web Developer [Freelance]</h4>
+                    <h4 class="item-title">Konsultan - Web Developer <a style="font-size: 12px;">[Freelance]</a></h4>
                     <p>Membuat E-Commerce berbasis WebApps menggunakan Framework Laravel  </p>
+                  </div>
+                </div>
+              </div>
+
+             
+
+              <div class="timeline timeline-second-style clearfix">
+                <div class="timeline-item clearfix">
+                  <div class="left-part">
+                    <h5 class="item-period">October 2019 - Now</h5>
+                    <span class="item-company"><a href="http://www.eidaramata.com/" target=”_blank” style="color:#C1C1C1">PT. Eidara Matadata Presisi</a></span>
+                  </div>
+                  <div class="divider"></div>
+                  <div class="right-part">
+                    <h4 class="item-title">Backend Developer <a style="font-size: 12px;">[Full Remote | Part Time]</a></h4>
+                    <p>Membuat Rest-API</p>
                   </div>
                 </div>
               </div>
@@ -88,18 +104,18 @@
                     <p>Membuat Aplikasi Mobile & Web-service & Database-design</p>
                   </div>
                 </div>
-              </div>
+              </div>  
       
       
-                  <div class="timeline timeline-second-style bs-30 clearfix">
+                <div class="timeline timeline-second-style bs-30 clearfix">
                     <div class="timeline-item clearfix">
                       <div class="left-part">
-                        <h5 class="item-period">June 2017 - Now</h5>
+                        <h5 class="item-period">June 2017 - October 2019</h5>
                         <span class="item-company"><a href="http://www.eidaramata.com/" target=”_blank” style="color:#C1C1C1">PT. Eidara Matadata Presisi</a></span>
                       </div>
                       <div class="divider"></div>
                       <div class="right-part">
-                        <h4 class="item-title">Full Stack Developer [Full Remote from mid 2018][Part Time from early 2019]</h4>
+                        <h4 class="item-title">Full Stack Developer <a style="font-size: 12px;">[Full Remote from mid 2018 | Part Time from early 2019]</a></h4>
                         <p>Membuat Rest-API,
                        Menampilkan peta dan memodifikasinya menggunakan Google Maps API,
                        Membuat Backend/Website menggunakan Laravel & Lumen,
@@ -212,7 +228,7 @@
 
                        <!-- Skill 3 -->
                        <div class="clearfix">
-                        <h4>Javascript & TypeScript [Angular from v.2.x][PWA]</h4>
+                        <h4>Javascript & TypeScript [Angular][PWA]</h4>
                         <div class="skill-value">75%</div>
                       </div>
                       <div class="skill-container">
@@ -266,7 +282,7 @@
 
                     <!-- Skill 2 -->
                     <div class="clearfix">
-                      <h4>Ionic Framework [from v.3.x]</h4>
+                      <h4>Ionic Framework</h4>
                       <div class="skill-value">85%</div>
                     </div>
                     <div class="skill-container">
@@ -302,7 +318,7 @@
                 <!-- Skill 2 -->
                 <div class="clearfix">
                   <h4>Sensor : TDS, Temperature, Humidity, Soil Humidity</h4>
-                  <div class="skill-value">70%</div>
+                  <div class="skill-value" style="margin-top:-10px;">70%</div>
                 </div>
                 <div class="skill-container">
                      <div class="skill-percentage skill-6"></div>
@@ -319,7 +335,7 @@
 
                 <!-- Skill 2 -->
                 <div class="clearfix">
-                  <h4>Google Cloud Platform : Google Compute Engine</h4>
+                  <h4>Google Compute Engine</h4>
                   <div class="skill-value">60%</div>
                 </div>
                 <div class="skill-container">
@@ -328,7 +344,7 @@
 
                 <!-- Skill 2 -->
                 <div class="clearfix">
-                  <h4>Firebase : Firebase Cloud Message, Firebase Hosting</h4>
+                  <h4>Firebase :  Cloud Message, Hosting</h4>
                   <div class="skill-value">85%</div>
                 </div>
                 <div class="skill-container">
