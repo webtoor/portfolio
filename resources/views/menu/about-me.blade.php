@@ -39,7 +39,7 @@
                             <p>
                                 Berawal dari kebetulan yang nampak terencana secara kosmik.
                                 Singkat cerita, saya diberi kesempatan untuk tinggal di Bumi, makhluk spiritual dalam tubuh manusia. Tertarik pada dunia Teknologi Informasi khususnya Programming.
-                                Saya senang mencari metode dan pendekatan baru untuk melakukan sesuatu untuk meningkatkan efektifitas & efisiensi. Prinsip saya, HANYA melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga TUJUAN tercapai.
+                                Senang mencari metode dan pendekatan baru dalam melakukan sesuatu untuk meningkatkan efektifitas & efisiensi. Prinsip saya, HANYA melakukan apa yang harus saya lakukan dan BERKOMITMEN untuk TIDAK BERHENTI hingga TUJUAN tercapai.
                               </p>
                             <div class="hp-buttons">
                               <a href="#" class="btn btn-primary">Download CV</a>
@@ -92,7 +92,7 @@
                               <div class="ci-text">
                                 <h4>Software Development</h4>
                                 <p>
-                                    Saat ini saya bekerja secara <b>professional</b> untuk aktivitas tersebut. Kegiatan sehari-hari yang saya lakukan. Dengan hal ini semoga saya bisa membantu dan bermanfaat untuk orang lain.
+                                    Saat ini saya bekerja secara <b>professional</b> untuk aktivitas tersebut. Kegiatan sehari-hari yang saya lakukan. Dengan hal ini semoga bisa membantu dan bermanfaat untuk orang lain.
                                 </p>
                               </div>
                             </div>
