@@ -27,6 +27,10 @@ Route::post('/send-email', 'HomeController@sendEmail');
 
 
 
+Route::get('/vuenic-mobile', function () {
+    return view('menu.portfolio.vuenic-mobile');
+});
+
 Route::get('/vuenic-pwa', function () {
     return view('menu.portfolio.vuenic-pwa');
 });

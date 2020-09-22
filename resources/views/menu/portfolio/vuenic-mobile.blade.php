@@ -3,8 +3,8 @@
     <div class="ajax-page-wrapper">
         <div class="ajax-page-nav">
             <div class="nav-item ajax-page-prev-next">
-                <a class="ajax-page-load" href="/hiber-droner"><i class="lnr lnr-chevron-left"></i></a>
-                <a class="ajax-page-load" href="/pis"><i class="lnr lnr-chevron-right"></i></a>
+                <a class="ajax-page-load" href="/complain-api"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="/vuenic-backend"><i class="lnr lnr-chevron-right"></i></a>
             </div>
             <div class="nav-item ajax-page-close-button">
                 <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
@@ -12,20 +12,43 @@
         </div>
 
         <div class="ajax-page-title">
-            <h1>Rest API H**** Apps</h1>
+            <h1>Vuenic Mobile</h1>
         </div>
 
         <div class="row">
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/hiber-api/1.png" alt="" />
+                        <img src="images/portfolio/vuenic/pwa/1-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/2-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/3-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/4-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/5-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/6-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/7-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/8-min.png" alt="" />
+                    </div>
+                    <div class="item">
+                        <img src="images/portfolio/vuenic/pwa/9-min.png" alt="" />
                     </div>
                 </div>
 
              
 
-            
                 <script type="text/javascript">
                     jQuery(document).ready(function($){
 
@@ -50,9 +73,10 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i><a href="http://www.eidaramata.com/" target="_blank" style="color:#666666">PT. Eidara Matadata Presisi</a></p></li>
-                        <li><p><i class="fa fa-globe"></i> <a href="http://hiber.eidaramata.com" target="_blank">http://hiber.eidaramata.com</a></p></li>
-                        <li><p><i class="fa fa-calendar"></i> Agustus 2017 - Juli 2020</p></li>
+                        <li><p><i class="fa fa-user"></i><a href="#" target=”_blank” style="color:#666666">Vuenic</a></p></li>
+                        <li><p><i class="fab fa-google-play"></i> <a href="https://play.google.com/store/apps/details?id=com.vuenic" target="_blank">Play Store</a></p></li>
+
+                        <li><p><i class="fa fa-calendar"></i>January 2020 - Now</p></li>
                     </ul>
 
                     <p></p>
@@ -64,9 +88,9 @@
                             <h3>Technology</h3>
                         </div>
                         <ul class="tags">
-                            <li><a>Lumen Framework v.3.x.x</a></li>
-                            <li><a>Oauth2</a></li>
-                            <li><a>MySQL</a></li>
+                            <li><a>Angular</a></li>
+                            <li><a>Ionic Framework v.5.x.x</a></li>
+                            <li><a>Capacitor</a></li>
                         </ul>
                     </div>
                     <!-- /Technology -->
