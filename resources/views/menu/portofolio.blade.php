@@ -41,7 +41,7 @@
                           <div class="portfolio-grid three-columns">
                             <figure class="item standard" data-groups='["category_all", "category_mobile"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/vuenic/pwa/1-min.png" alt="Vuenic Mobile" title="" />
+                                <img src="images/portfolio/vuenic/pwa/1.png" alt="Vuenic Mobile" title="" />
                                 <a href="/vuenic-mobile" class="ajax-page-load"></a>
                               </div>
   
@@ -53,7 +53,7 @@
                                  <!-- VUENIC BACKEND -->
                             <figure class="item standard" data-groups='["category_all", "category_pwa", "category_web"]'>
                               <div class="portfolio-item-img">
-                                <img src="images/portfolio/vuenic/pwa/1-min.png" alt="Vuenic PWA" title="" />
+                                <img src="images/portfolio/vuenic/pwa/3.png" alt="Vuenic PWA" title="" />
                                 <a href="/vuenic-pwa" class="ajax-page-load"></a>
                               </div>
   
