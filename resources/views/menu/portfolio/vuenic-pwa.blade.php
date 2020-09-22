@@ -73,7 +73,8 @@
                         <h3>Description</h3>
                     </div>
                     <ul class="project-general-info">
-                        <li><p><i class="fa fa-user"></i><a href="https://apps.vuenic.com" target=”_blank” style="color:#666666">Vuenic Service</a></p></li>
+                        <li><p><i class="fa fa-user"></i><a href="https://vuenic.com" target=”_blank” style="color:#666666">Vuenic Service</a></p></li>
+                        <li><p><i class="fa fa-globe"></i> <a href="https://apps.vuenic.com" target="_blank">apps.vuenic.com</a></p></li>
                         <li><p><i class="fa fa-calendar"></i>January 2020 - Now</p></li>
                     </ul>
 
