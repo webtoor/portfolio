@@ -19,31 +19,31 @@
             <div class="col-sm-7 col-md-7 portfolio-block">
                 <div class="owl-carousel portfolio-page-carousel">
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/1.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/1.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/2.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/2.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/3.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/3.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/4.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/4.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/5.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/5.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/6.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/6.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/7.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/7.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/8.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/8.png" alt="" />
                     </div>
                     <div class="item">
-                        <img src="images/portfolio/vuenic/pwa/9.png" alt="" />
+                        <img src="images/portfolio/vuenic/mobile/9.png" alt="" />
                     </div>
                 </div>
 
